@@ -1,5 +1,5 @@
 langchain
-PyPDF
+PyPDF2
 devenv
 streamlit
 faiss-cpu
