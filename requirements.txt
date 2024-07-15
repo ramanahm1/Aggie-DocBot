@@ -1,6 +1,10 @@
 langchain
+langchain-community
+sentence-transformers
+langchain-google-genai
 PyPDF2
 python-dotenv
 streamlit
 faiss-cpu
 streamlit-extras
+openai
