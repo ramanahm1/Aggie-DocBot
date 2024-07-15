@@ -2,5 +2,6 @@ venv/
 *.pyc
 __pycache__/
 .env
-.pkl
+*.pkl
 embedding_store/
+*.DS_Store
