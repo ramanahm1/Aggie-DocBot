@@ -5,6 +5,7 @@ sentence-transformers
 langchain-google-genai
 faiss-cpu
 openai
+deeplake
 
 # Document Parsing
 PyPDF2
@@ -15,3 +16,9 @@ python-dotenv
 # UI
 streamlit
 streamlit-extras
+
+# Google Drive Access
+google-auth
+google-auth-httplib2
+google-auth-oauthlib
+google-api-python-client

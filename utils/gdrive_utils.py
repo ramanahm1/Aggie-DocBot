@@ -7,8 +7,9 @@ import os
 import time
 
 def authenticate_gdrive():
-    SCOPES = ['https://www.googleapis.com/auth/drive.readonly']
-    SERVICE_ACCOUNT_FILE = '/Users/ramana/Documents/RAG PDF Chat/secrets/arctic-sentry-425004-f9-d134b7a0df00.json'
+    load_dotenv()
+    SCOPES = [os.getenv('GOOGLE_DRIVE_SCOPE')]
+    SERVICE_ACCOUNT_FILE = os.getenv('GOOGLE_SERVICE_ACCOUNT_FILE')
 
     creds = service_account.Credentials.from_service_account_file(
             SERVICE_ACCOUNT_FILE, scopes=SCOPES)
@@ -28,7 +29,7 @@ def list_files_in_folder(folder_id):
         while True:
             response = service.files().list(
                 q=f"'{folder_id}' in parents",
-                pageSize=1000,
+                pageSize=100,
                 fields="nextPageToken, files(id, name)",
                 pageToken=page_token
             ).execute()
@@ -49,8 +50,23 @@ def list_files_in_folder(folder_id):
     except Exception as e:
         print(f"An error occurred: {e}")
         return []
+    
+def get_file_id_by_name(folder_id, file_name):
+    service = authenticate_gdrive()
+    try:
+        results = service.files().list(
+            q=f"'{folder_id}' in parents and name='{file_name}'",
+            pageSize=1,
+            fields="files(id, name)").execute()
+        items = results.get('files', [])
+        if items:
+            return items[0]['id']
+        else:
+            return None
+    except Exception as e:
+        print(f"An error occurred: {e}")
+        return None
 
-# Download a file from Google Drive
 def download_file_from_drive(file_id, file_name):
     service = authenticate_gdrive()
     request = service.files().get_media(fileId=file_id)
@@ -61,7 +77,6 @@ def download_file_from_drive(file_id, file_name):
         status, done = downloader.next_chunk()
         print(f"Download {int(status.progress() * 100)}%.")
 
-# Upload a file to Google Drive
 def upload_file_to_drive(uploaded_file, folder_id):
     service = authenticate_gdrive()
     file_metadata = {
@@ -81,16 +96,6 @@ def main():
     # List files
     files = list_files_in_folder(folder_id)
     print("Files in folder:", files)
-
-    # # Download a file example
-    # if files:
-    #     first_file_id = files[0]['id']
-    #     first_file_name = files[0]['name']
-    #     download_file_from_drive(first_file_id, first_file_name)
-
-    # # Upload a file example
-    # file_path = 'path/to/your/upload_file.pdf'  # Replace with your file path
-    # upload_file_to_drive(file_path, folder_id)
 
 if __name__ == "__main__":
     main()

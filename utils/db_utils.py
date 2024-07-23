@@ -59,6 +59,16 @@ def delete_all_documents(conn):
     except sqlite3.Error as e:
         print(e)
 
+def delete_document_by_uuid(conn, uuid):
+    """ Delete a document by uuid """
+    sql = 'DELETE FROM documents WHERE uuid=?'
+    try:
+        cur = conn.cursor()
+        cur.execute(sql, (uuid,))
+        conn.commit()
+    except sqlite3.Error as e:
+        print(e)
+
 # Example usage
 if __name__ == '__main__':
     database = "documents.db"
@@ -67,14 +77,14 @@ if __name__ == '__main__':
     conn = create_connection(database)
     with conn:
         # Create table
-        create_table(conn)
+        # create_table(conn)
 
-        # Insert a document
-        doc = (str(uuid.uuid4()), 'STAT TB Chapt 1.pdf', True)
-        insert_document(conn, doc)
+        # # Insert a document
+        # doc = (str(uuid.uuid4()), 'STAT TB Chapt 1.pdf', True)
+        # insert_document(conn, doc)
 
-        # Query the document
-        print(get_document_by_uuid(conn, doc[0]))
+        # # Query the document
+        # print(get_document_by_uuid(conn, doc[0]))
 
         # Query all documents
         print(get_all_documents(conn))

@@ -1,0 +1,255 @@
+Credits 3. 3 Lecture Hours.  Emphasis on fundamental theory for
+learning supervised classiﬁcation-regression models; covers Bayes
+classiﬁer, maximum-likelihood estimation, least squares, Probably
+Approximately Correct Learning, empirical risk minimization, Vapnik-
+Chervonenkis dimension, computational learning, structural risk
+minimization, regularization, cross-validation, acyclic feedforward
+networks, completeness of neural networks, backpropagation algorithm,
+gradient descent, stochastic gradient descent, Convolutional Neural
+networks, Auto-encoders, Generative Adversarial Networks, support
+vector machines, kernel-based methods, learning from experts,
+---
+Theory
+Credits 3. 3 Lecture Hours.  Probabilistic signal detection theory and
+parameter estimation theory; Neyman-Pearson, UMP, and locally optimal
+tests; discrete time Markov processes and the Kalman and Wiener ﬁlters;
+bayesian, maximum likelihood and conditional mean estimation methods.
+Prerequisite:  ECEN 646.
+ECEN 663 Data Compression with
+Applications to Speech and Video
+Credits 3. 3 Lecture Hours.  Characterization and representation of
+waveforms; digital coding of waveforms including PCM, delta modulation,
+DPCM, tree/trellis coding, runlength coding, sub-band coding and
+transform coding; rate distortion theoretic performance bounds.
+---
+based training for project management, interdisciplinary collaboration
+and communication skills. Prerequisite:  Two or more of CSCE 633,
+CSCE 636, CSCE 666, CSCE 676, ECEN 758, ECEN 649, ECEN 740,
+ECEN 743, ECEN 765, ECEN 760, STAT 616, STAT 618 or STAT 639;
+Python programming experience is highly recommended. Cross Listing:
+STAT 683 and CSCE 725.
+ECEN 732 Online Decision Making and
+Learning
+Credits 3. 3 Lecture Hours.  Study of the design and analysis of online
+decision making policies in the presence of unknown future events;
+topics include online learning, prima-dual techniques, online convex
+optimization and multi-armed bandit problem; focus on the application
+---
+discrete sources and quantization; source and channel waveforms, signal
+spaces; modulation and demodulation, random noise; detection, error
+control coding, efﬁcient decoding algorithms. Prerequisite:  ECEN 646 or
+equivalent.
+ECEN 662 Estimation and Detection
+Theory
+Credits 3. 3 Lecture Hours.  Probabilistic signal detection theory and
+parameter estimation theory; Neyman-Pearson, UMP, and locally optimal
+tests; discrete time Markov processes and the Kalman and Wiener ﬁlters;
+bayesian, maximum likelihood and conditional mean estimation methods.
+Prerequisite:  ECEN 646.
+ECEN 663 Data Compression with
+Applications to Speech and Video
+---
+reinforcement learning; including Markov decision processes, dynamic
+programming, Q-Learning, policy gradient algorithms, neural networks,
+deep reinforcement learning, imitation learning and multi-agent learning.
+Prerequisite:  Graduate classiﬁcation.ECEN 744 Scientiﬁc Machine Learning
+Credits 3. 3 Lecture Hours.  Introduction to the algorithmic and
+computational foundations of Scientiﬁc Machine Learning (SciML);
+regularizing scientiﬁc laws in Machine Learning algorithms; interpretable
+models, leading to improved veriﬁcation and validation in mission-critical
+applications; fundamental concepts of scientiﬁc computation, including
+ODE and PDE numerical methods and high-performance computing;
+---
+experiments with AC power controllers, controlled rectiﬁers, DC choppers
+and DC-AC converters; applications to power supplies, airborne and
+spaceborne power systems. Prerequisite:  Graduate classiﬁcation or
+approval of instructor.
+ECEN 740 Machine Learning Engineering
+Credits 3. 3 Lecture Hours.  Emphasis on fundamental theory for
+learning supervised classiﬁcation-regression models; covers Bayes
+classiﬁer, maximum-likelihood estimation, least squares, Probably
+Approximately Correct Learning, empirical risk minimization, Vapnik-
+Chervonenkis dimension, computational learning, structural risk
+minimization, regularization, cross-validation, acyclic feedforward
+---
+equivalence checking; model checking; temporal logic; design assertions;
+probabilistic model checking. Prerequisites:  Graduate classiﬁcation.
+ECEN 725 Data Science Capstone
+Credits 3. 3 Lecture Hours.  Application of data science methods
+including machine learning to research problems; team project-
+based training for project management, interdisciplinary collaboration
+and communication skills. Prerequisite:  Two or more of CSCE 633,
+CSCE 636, CSCE 666, CSCE 676, ECEN 758, ECEN 649, ECEN 740,
+ECEN 743, ECEN 765, ECEN 760, STAT 616, STAT 618 or STAT 639;
+Python programming experience is highly recommended. Cross Listing:
+STAT 683 and CSCE 725.
+ECEN 732 Online Decision Making and
+Learning
+---
+Chervonenkis dimension, computational learning, structural risk
+minimization, regularization, cross-validation, acyclic feedforward
+networks, completeness of neural networks, backpropagation algorithm,
+gradient descent, stochastic gradient descent, Convolutional Neural
+networks, Auto-encoders, Generative Adversarial Networks, support
+vector machines, kernel-based methods, learning from experts,
+boosting, Gaussian process-based learning, word embeddings, recurrent
+neural networks, decision trees, random forests and nearest neighbor
+classiﬁcation. Prerequisite:  ECEN 303, MATH 411, STAT 614, STAT 615, or
+approval of instructor.
+ECEN 741 Electronic Motor Drives
+---
+introduction to the basic SciML algorithms (Automatic Differentiation,
+Physically Informed Neural Networks, and Physically-Informed Gaussian
+Processes) and their application to forward prediction, inverse modeling,
+and uncertainty quantiﬁcation; educational activities of the TAMIDS
+SciML Thematic Lab. Prerequisites:  Graduate classiﬁcation.
+ECEN 748 Data Stream Algorithms and
+Applications
+Credits 3. 3 Lecture Hours.  Study of algorithms to sample, sketch and
+summarize high rate data streams, including applications to measuring
+internet trafﬁc and services and transactional graph streaming data;
+quantify the trade-offs between computational and storage resources
+---
+processes necessary for advanced study of information science, digital
+communications, networks, stochastic control and other engineering
+systems involving uncertainty; applications to detection, channel coding,
+queuing, optimization and inference.
+ECEN 647 Information Theory
+Credits 3. 3 Lecture Hours.  Deﬁnition of information; coding of
+information for transmission over a noisy channel including additive
+gaussian noise channels and waveform channels; minimum rates at
+which sources can be encoded; maximum rates at which information can
+be transmitted over noisy channels. Prerequisite:  ECEN 646 or equivalent
+probability background.
+ECEN 648 Principles of Magnetic
+Resonance Imaging
+---
+estimation.
+ECEN 602 Computer Communication and
+Networking
+Credits 3. 3 Lecture Hours.  Computer communication and computer
+networks; use of the International Standards Organization (ISO) seven-
+layer Open Systems Interconnection model as basis for systematic
+approach; operational networks to be included in the study of each layer;
+homework assignments to make use of a campus computer network.
+Prerequisite:  ECEN 646 or equivalent probability background.
+ECEN 604 Channel Coding for
+Communications Systems
+Credits 3. 3 Lecture Hours.  Channel coding for error control, ﬁnite
+ﬁeld algebra, block codes, cyclic codes; BCH codes; and convolutional
+---
+STAT 683 and CSCE 725.
+ECEN 732 Online Decision Making and
+Learning
+Credits 3. 3 Lecture Hours.  Study of the design and analysis of online
+decision making policies in the presence of unknown future events;
+topics include online learning, prima-dual techniques, online convex
+optimization and multi-armed bandit problem; focus on the application
+for emerging computer systems and networks. Prerequisites:  Graduate
+classiﬁcation.ECEN - Electrical & Comp Engr 7
+ECEN 733 Advanced Micromachining
+Technologies for the Informational Era
+Credits 3. 3 Lecture Hours.  . In-depth discussion of state-of-the-art
+fabrication and assembly techniques for micro sensors and actuators to
+---
+time domain and transform approaches; digital ﬁlter design techniques
+with digital computer implementations. Prerequisite:  ECEN 601, or
+approval of instructor.ECEN 646 Probability and Random
+Processes for Information Science
+Credits 3. 3 Lecture Hours.  Concepts of probability and random
+processes necessary for advanced study of information science, digital
+communications, networks, stochastic control and other engineering
+systems involving uncertainty; applications to detection, channel coding,
+queuing, optimization and inference.
+ECEN 647 Information Theory
+Credits 3. 3 Lecture Hours.  Deﬁnition of information; coding of
+---
+conditional random ﬁelds, and factor graphs; relevant inference and
+learning algorithms, as well as their application in various science
+and engineering problems will be introduced throughout the course.
+Prerequisites:  Undergraduate level probability theory; basic programming
+skill in any programming language (C, C++, Python, Matlab, etc.).ECEN 761 Biosensors Lab
+Credits 3. 2 Lecture Hours. 2 Lab Hours.  Biosensors Lab is a hands
+on experience in basic concepts of biosensing and how to make
+miniaturized biosensors; various application examples associated with
+these sensing principles. Prerequisite:  Approval of instructor.
+ECEN 762 Advanced Ultrasound Imaging
+Techniques
+---
+quantitative structure-property relations (QSPRs) in materials and
+materials systems; basic concepts of QSPRs and probability, supervised
+learning, unsupervised learning, optimal prediction and applications in
+materials discovery. Prerequisite:  Approval of instructor. Cross Listing:
+MSEN 660/ECEN 769.
+ECEN 771 Fluctuations and Noise
+Electronics
+Credits 3. 3 Lecture Hours.  Introduction to the research of Noise and
+Fluctuations; Noise and Fluctuations in electronics and other systems
+include virtually all scientiﬁc ﬁelds, including secure and non-secure
+communications, microprocessors, quantum information, mesoscopic
+systems, chemical sensing, corrosion diagnostics, neuro- and membrane-
+---
+compute such equilibria. Prerequisite:  Graduate classiﬁcation.
+ECEN 757/CSCE 678 Distributed Systems
+and Cloud Computing
+Credits 3. 3 Lecture Hours.  Fundamental concepts of distributed systems
+with a focus on the emerging application of cloud computing; design,
+analyze, and optimize distributed systems; includes MapReduce,
+synchronization, peer-to-peer systems, election, distributed agreement,
+replication, job assignment. Cross Listing:  CSCE 678/ECEN 757.
+ECEN 758 Data Mining and Analysis
+Credits 3. 3 Lecture Hours.  Broad overview of data mining, integrating
+related concepts from machine learning and statistics; exploratory data
+---
+tissue interaction, image formation and clinical examples. Prerequisite:
+ECEN 314 or equivalent, or approval of instructor.
+ECEN 765 Machine Learning with
+Networks
+Credits 3. 3 Lecture Hours.  Scientiﬁc analysis of large-scale data;
+introduction to advanced methods that are designed to analyze
+structured data represented as networks. Prerequisite:  Approval of
+instructor.
+ECEN 766 Algorithms in Structural
+Bioinformatics
+Credits 3. 3 Lecture Hours.  Fundamental concepts, modeling techniques,
+and computational algorithms in structural bioinformatics for algorithm
+development and application; focus on algorithm perspective involving
+---
+classiﬁcation.
+ECEN 756 Game Theory
+Credits 3. 3 Lecture Hours.  Fundamentals of game theory, strategic
+behavior and concepts of equilibria; utilization of concepts in realistic
+application scenarios, as well as algorithms and learning methods to
+compute such equilibria. Prerequisite:  Graduate classiﬁcation.
+ECEN 757/CSCE 678 Distributed Systems
+and Cloud Computing
+Credits 3. 3 Lecture Hours.  Fundamental concepts of distributed systems
+with a focus on the emerging application of cloud computing; design,
+analyze, and optimize distributed systems; includes MapReduce,
+synchronization, peer-to-peer systems, election, distributed agreement,
+---
+flows in wireless networks, wafer fabrication plants, and economic
+dispatch in power systems. Prerequisites:  MATH 304 or MATH 309 or
+MATH 311; MATH 251 or graduate classiﬁcation.
+ECEN 755 Stochastic Systems
+Credits 3. 3 Lecture Hours.  Principles of stochastic systems including
+performance evaluation, estimation, control, scheduling, identiﬁcation
+and adaptation, as well as electric and computer engineering
+applications; includes applications in communication networks and
+control. Prerequisites:  MATH 411; approval of instructor and graduate
+classiﬁcation.
+ECEN 756 Game Theory
+Credits 3. 3 Lecture Hours.  Fundamentals of game theory, strategic
+---
+networks, Auto-encoders, Generative Adversarial Networks, support
+vector machines, kernel-based methods, learning from experts,
+boosting, Gaussian process-based learning, word embeddings, recurrent
+neural networks, decision trees, random forests and nearest neighbor
+classiﬁcation. Prerequisite:  ECEN 303, MATH 411, STAT 614, STAT 615, or
+approval of instructor.
+ECEN 741 Electronic Motor Drives
+Credits 4. 3 Lecture Hours. 3 Lab Hours.  Application of semiconductor
+switching power converters to adjustable speed DC and AC motor drives;
+steady state theory and analysis of electric motion control in industrial,
+robotic and traction systems; laboratory experiments in power electronic
+---
