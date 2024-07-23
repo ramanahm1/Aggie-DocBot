@@ -1,0 +1,2096 @@
+ECEN - Electrical & Comp Engr 1
+ECEN - ELECTRICAL & COMP
+ENGR
+ECEN 600 Experimental Optics
+Credits 4. 3 Lecture Hours. 2 Lab Hours.  Hardware, electronic interfaces,
+and experimental techniques for optics including optical mechanics,
+component mounting techniques, passive optical components,
+interferometers and precision alignment, basic electronics including op
+amps, active optical elements such as acousto-optics, servos in optics,
+laser intensity stabilization, lock-in ampliﬁer and frequency stabilization.
+Prerequisite:  Approval of instructor.
+ECEN 601 Mathematical Methods in
+Signal Processing
+Credits 3. 3 Lecture Hours.  Representations and algorithms for signal
+---
+interferometers and precision alignment, basic electronics including op
+amps, active optical elements such as acousto-optics, servos in optics,
+laser intensity stabilization, lock-in ampliﬁer and frequency stabilization.
+Prerequisite:  Approval of instructor.
+ECEN 601 Mathematical Methods in
+Signal Processing
+Credits 3. 3 Lecture Hours.  Representations and algorithms for signal
+processing; linear algebra, vector spaces, normed and inner product
+spaces; projection, orthogonalization, rank-nullity theorem; matrix
+representations, singular value decomposition; sampling, Fourier
+analysis, spectral methods; statistical signal processing and linear
+estimation.
+ECEN 602 Computer Communication and
+---
+Credits 3. 3 Lecture Hours.  Representations and algorithms for signal
+processing; linear algebra, vector spaces, normed and inner product
+spaces; projection, orthogonalization, rank-nullity theorem; matrix
+representations, singular value decomposition; sampling, Fourier
+analysis, spectral methods; statistical signal processing and linear
+estimation.
+ECEN 602 Computer Communication and
+Networking
+Credits 3. 3 Lecture Hours.  Computer communication and computer
+networks; use of the International Standards Organization (ISO) seven-
+layer Open Systems Interconnection model as basis for systematic
+approach; operational networks to be included in the study of each layer;
+---
+estimation.
+ECEN 602 Computer Communication and
+Networking
+Credits 3. 3 Lecture Hours.  Computer communication and computer
+networks; use of the International Standards Organization (ISO) seven-
+layer Open Systems Interconnection model as basis for systematic
+approach; operational networks to be included in the study of each layer;
+homework assignments to make use of a campus computer network.
+Prerequisite:  ECEN 646 or equivalent probability background.
+ECEN 604 Channel Coding for
+Communications Systems
+Credits 3. 3 Lecture Hours.  Channel coding for error control, ﬁnite
+ﬁeld algebra, block codes, cyclic codes; BCH codes; and convolutional
+---
+approach; operational networks to be included in the study of each layer;
+homework assignments to make use of a campus computer network.
+Prerequisite:  ECEN 646 or equivalent probability background.
+ECEN 604 Channel Coding for
+Communications Systems
+Credits 3. 3 Lecture Hours.  Channel coding for error control, ﬁnite
+ﬁeld algebra, block codes, cyclic codes; BCH codes; and convolutional
+codes; Trellis coded modulation, including ungerboeck codes and coset
+codes; performance on gaussian and rayleigh channels; applications
+to communications systems. Prerequisites:  Approval of instructor and
+graduate classiﬁcation.
+ECEN 605 Linear Multivariable Systems
+---
+ﬁeld algebra, block codes, cyclic codes; BCH codes; and convolutional
+codes; Trellis coded modulation, including ungerboeck codes and coset
+codes; performance on gaussian and rayleigh channels; applications
+to communications systems. Prerequisites:  Approval of instructor and
+graduate classiﬁcation.
+ECEN 605 Linear Multivariable Systems
+Credits 3. 3 Lecture Hours.  Single input single output systems,
+multivariable systems, linear servomechanism problem and linear
+quadratic optimal control; emphasis on linear systems, classical linear
+control theory and modern state space control theory. Prerequisite:
+Graduate classiﬁcation.
+ECEN 606 Nonlinear Control Systems
+---
+graduate classiﬁcation.
+ECEN 605 Linear Multivariable Systems
+Credits 3. 3 Lecture Hours.  Single input single output systems,
+multivariable systems, linear servomechanism problem and linear
+quadratic optimal control; emphasis on linear systems, classical linear
+control theory and modern state space control theory. Prerequisite:
+Graduate classiﬁcation.
+ECEN 606 Nonlinear Control Systems
+Credits 3. 3 Lecture Hours.  Techniques available to analyze and
+synthesize nonlinear and discontinuous control systems; modern
+stability theory, time-varying systems, DF, DIDF, Lyapunov Theory, adaptive
+control, identiﬁcation and design principles for using these concepts;
+---
+Graduate classiﬁcation.
+ECEN 606 Nonlinear Control Systems
+Credits 3. 3 Lecture Hours.  Techniques available to analyze and
+synthesize nonlinear and discontinuous control systems; modern
+stability theory, time-varying systems, DF, DIDF, Lyapunov Theory, adaptive
+control, identiﬁcation and design principles for using these concepts;
+examples from a variety of electronic and electromechanical systems.
+Prerequisite:  ECEN 605.ECEN 607 Advanced Analog Circuit Design
+Techniques
+Credits 4. 3 Lecture Hours. 2 Lab Hours.  Design of analog circuits using
+conventional and non-conventional voltage techniques, including floating
+gate, bulk driven and enhanced wide swing structures. Prerequisite:
+---
+examples from a variety of electronic and electromechanical systems.
+Prerequisite:  ECEN 605.ECEN 607 Advanced Analog Circuit Design
+Techniques
+Credits 4. 3 Lecture Hours. 2 Lab Hours.  Design of analog circuits using
+conventional and non-conventional voltage techniques, including floating
+gate, bulk driven and enhanced wide swing structures. Prerequisite:
+ECEN 474 or approval of instructor.
+ECEN 608 Modern Control
+Credits 3. 3 Lecture Hours.  Vector Norms; Induced Operator Norms; Lp
+stability; the small gain theorem; performance/robustness trade-offs; L1
+and Hoo optimal P control as operator norm minimization; H2 optimal
+control. Prerequisite:  ECEN 605 or equivalent.
+---
+gate, bulk driven and enhanced wide swing structures. Prerequisite:
+ECEN 474 or approval of instructor.
+ECEN 608 Modern Control
+Credits 3. 3 Lecture Hours.  Vector Norms; Induced Operator Norms; Lp
+stability; the small gain theorem; performance/robustness trade-offs; L1
+and Hoo optimal P control as operator norm minimization; H2 optimal
+control. Prerequisite:  ECEN 605 or equivalent.
+ECEN 609 Adaptive Control
+Credits 3. 3 Lecture Hours.  Basic principles of parameter identiﬁcation
+and parameter adaptive control; robustness and examples of instability;
+development of a uniﬁed approach to the design of robust adaptive
+schemes. Prerequisite:  ECEN 605 or equivalent.
+---
+control. Prerequisite:  ECEN 605 or equivalent.
+ECEN 609 Adaptive Control
+Credits 3. 3 Lecture Hours.  Basic principles of parameter identiﬁcation
+and parameter adaptive control; robustness and examples of instability;
+development of a uniﬁed approach to the design of robust adaptive
+schemes. Prerequisite:  ECEN 605 or equivalent.
+ECEN 610 Mixed-Signal Interfaces
+Credits 4. 3 Lecture Hours. 2 Lab Hours.  Analog-to-digital and digital-to-
+analog converter architectures including Nyquist rate and oversampled
+converters; deﬁnition of basic data converter speciﬁcations and
+ﬁgures of metric; background and foreground calibration techniques to
+---
+schemes. Prerequisite:  ECEN 605 or equivalent.
+ECEN 610 Mixed-Signal Interfaces
+Credits 4. 3 Lecture Hours. 2 Lab Hours.  Analog-to-digital and digital-to-
+analog converter architectures including Nyquist rate and oversampled
+converters; deﬁnition of basic data converter speciﬁcations and
+ﬁgures of metric; background and foreground calibration techniques to
+improve performance of data converters; low-power (green topologies)
+data converters design; state of the art mixed-signal interfaces such
+as transmitters and receivers front-ends in wireless and wireline
+communications transceivers; introduction to calibration techniques for
+---
+ﬁgures of metric; background and foreground calibration techniques to
+improve performance of data converters; low-power (green topologies)
+data converters design; state of the art mixed-signal interfaces such
+as transmitters and receivers front-ends in wireless and wireline
+communications transceivers; introduction to calibration techniques for
+digitally-assisted transceivers. Prerequisite:  ECEN 474 or approval of
+instructor.
+ECEN 611 General Theory of
+Electromechanical Motion Devices
+Credits 3. 3 Lecture Hours.  Winding function theory; inductances of an
+ideal doubly cylindrical machine; inductances of salient-pole machines,
+---
+communications transceivers; introduction to calibration techniques for
+digitally-assisted transceivers. Prerequisite:  ECEN 474 or approval of
+instructor.
+ECEN 611 General Theory of
+Electromechanical Motion Devices
+Credits 3. 3 Lecture Hours.  Winding function theory; inductances of an
+ideal doubly cylindrical machine; inductances of salient-pole machines,
+reference frame and transformation theory; dynamic equations of electric
+machines; steady-state behavior of electric machines. Prerequisite:
+Approval of instructor or graduate classiﬁcation.
+ECEN 612 Computer Aided Design of
+Electromechanical Motion Devices
+Credits 4. 3 Lecture Hours. 3 Lab Hours.  Magnetic circuits and ﬁeld
+---
+ideal doubly cylindrical machine; inductances of salient-pole machines,
+reference frame and transformation theory; dynamic equations of electric
+machines; steady-state behavior of electric machines. Prerequisite:
+Approval of instructor or graduate classiﬁcation.
+ECEN 612 Computer Aided Design of
+Electromechanical Motion Devices
+Credits 4. 3 Lecture Hours. 3 Lab Hours.  Magnetic circuits and ﬁeld
+distribution of electric machines; main flux path calculation; calculation
+of magnetizing and leakage inductance; calculation of electric machine
+losses; principle of design of various electric machines; ﬁnite element
+design of electromechanical motion devices. Prerequisite:  Approval of
+---
+Electromechanical Motion Devices
+Credits 4. 3 Lecture Hours. 3 Lab Hours.  Magnetic circuits and ﬁeld
+distribution of electric machines; main flux path calculation; calculation
+of magnetizing and leakage inductance; calculation of electric machine
+losses; principle of design of various electric machines; ﬁnite element
+design of electromechanical motion devices. Prerequisite:  Approval of
+instructor or graduate classiﬁcation.
+ECEN 613 Rectiﬁer and Inverter Circuits
+Credits 3. 3 Lecture Hours.  Analysis/design of single phase, three phase
+rectiﬁers; phase control and PWM rectiﬁers; line harmonics; power factor;
+harmonic standards; passive and active correction methods; inverters;
+---
+design of electromechanical motion devices. Prerequisite:  Approval of
+instructor or graduate classiﬁcation.
+ECEN 613 Rectiﬁer and Inverter Circuits
+Credits 3. 3 Lecture Hours.  Analysis/design of single phase, three phase
+rectiﬁers; phase control and PWM rectiﬁers; line harmonics; power factor;
+harmonic standards; passive and active correction methods; inverters;
+PWM methods; effect of blanking time; zero voltage switching and
+multilevel inverter; application of these systems in UPS and AC motor
+drives. Prerequisite:  ECEN 438 or approval of instructor.2  ECEN - Electrical & Comp Engr
+ECEN 614 Power System State Estimation
+Credits 3. 3 Lecture Hours.  The large electric power system state
+---
+PWM methods; effect of blanking time; zero voltage switching and
+multilevel inverter; application of these systems in UPS and AC motor
+drives. Prerequisite:  ECEN 438 or approval of instructor.2  ECEN - Electrical & Comp Engr
+ECEN 614 Power System State Estimation
+Credits 3. 3 Lecture Hours.  The large electric power system state
+estimation problem; issues of network observability; bad measurements
+detection/identiﬁcation; sparse matrix vector techniques for
+computational efﬁciency. Prerequisite:  ECEN 460.
+ECEN 615 Methods of Electric Power
+Systems Analysis
+Credits 3. 3 Lecture Hours.  Digital computer methods for solution of the
+---
+Credits 3. 3 Lecture Hours.  The large electric power system state
+estimation problem; issues of network observability; bad measurements
+detection/identiﬁcation; sparse matrix vector techniques for
+computational efﬁciency. Prerequisite:  ECEN 460.
+ECEN 615 Methods of Electric Power
+Systems Analysis
+Credits 3. 3 Lecture Hours.  Digital computer methods for solution of the
+load flow problem; load flow approximations; equivalents; optimal load
+flow. Prerequisite:  ECEN 460 or approval of instructor.
+ECEN 616 Power System Electromagnetic
+Transients
+Credits 3. 3 Lab Hours.  Modeling of power system components for
+electromagnetic transient studies; digital computer methods for
+---
+Systems Analysis
+Credits 3. 3 Lecture Hours.  Digital computer methods for solution of the
+load flow problem; load flow approximations; equivalents; optimal load
+flow. Prerequisite:  ECEN 460 or approval of instructor.
+ECEN 616 Power System Electromagnetic
+Transients
+Credits 3. 3 Lab Hours.  Modeling of power system components for
+electromagnetic transient studies; digital computer methods for
+computation of transients. Prerequisites:  ECEN 459 and ECEN 460.
+ECEN 617 Advanced Signal Processing for
+Medical Imaging
+Credits 3. 3 Lecture Hours.  This is a graduate-level course covering
+several advanced signal processing topics in medical imaging: multi-
+---
+Credits 3. 3 Lab Hours.  Modeling of power system components for
+electromagnetic transient studies; digital computer methods for
+computation of transients. Prerequisites:  ECEN 459 and ECEN 460.
+ECEN 617 Advanced Signal Processing for
+Medical Imaging
+Credits 3. 3 Lecture Hours.  This is a graduate-level course covering
+several advanced signal processing topics in medical imaging: multi-
+dimensional signal sampling and reconstruction, bio-signal generation
+and optimal detection, Fourier imaging, Radon transform-based
+tomographic imaging, multi-channel signal processing, as well as
+constrained reconstruction, rapid imaging, image segmentation,
+---
+Credits 3. 3 Lecture Hours.  This is a graduate-level course covering
+several advanced signal processing topics in medical imaging: multi-
+dimensional signal sampling and reconstruction, bio-signal generation
+and optimal detection, Fourier imaging, Radon transform-based
+tomographic imaging, multi-channel signal processing, as well as
+constrained reconstruction, rapid imaging, image segmentation,
+registration and analysis. Prerequisite:  Approval of the instructor.
+ECEN 619 Internet Protocols and
+Modeling
+Credits 3. 3 Lecture Hours.  Wide spectrum of Internet protocols that
+make it work; analytical capabilities to evaluate the performance of
+---
+tomographic imaging, multi-channel signal processing, as well as
+constrained reconstruction, rapid imaging, image segmentation,
+registration and analysis. Prerequisite:  Approval of the instructor.
+ECEN 619 Internet Protocols and
+Modeling
+Credits 3. 3 Lecture Hours.  Wide spectrum of Internet protocols that
+make it work; analytical capabilities to evaluate the performance of
+complex Internet protocols; aspects of the Internet protocols, including
+principles, design and implementation, and performance modeling and
+analysis; core components of Internet protocols such as transport (TCP,
+UDP), network and routing (IP, RIP, OSPF, EGP, BGP-4, etc.) Prerequisite:
+Approval of instructor.
+---
+make it work; analytical capabilities to evaluate the performance of
+complex Internet protocols; aspects of the Internet protocols, including
+principles, design and implementation, and performance modeling and
+analysis; core components of Internet protocols such as transport (TCP,
+UDP), network and routing (IP, RIP, OSPF, EGP, BGP-4, etc.) Prerequisite:
+Approval of instructor.
+ECEN 620 Network Theory
+Credits 3. 3 Lecture Hours.  Development and application of advanced
+topics in circuit analysis and synthesis in both the continuous and
+discrete time and frequency domains. Prerequisite:  ECEN 326 or
+equivalent.
+ECEN 621 Mobile Wireless Networks
+---
+UDP), network and routing (IP, RIP, OSPF, EGP, BGP-4, etc.) Prerequisite:
+Approval of instructor.
+ECEN 620 Network Theory
+Credits 3. 3 Lecture Hours.  Development and application of advanced
+topics in circuit analysis and synthesis in both the continuous and
+discrete time and frequency domains. Prerequisite:  ECEN 326 or
+equivalent.
+ECEN 621 Mobile Wireless Networks
+Credits 3. 3 Lecture Hours.  Foundations of advanced mobile wireless
+networks, how they are designed, and how well they perform; topics
+include fundamentals on mobile wireless networks, TCP/IP over wireless
+links, fading-channel modeling, CDMA, OFDM, MIMO, error control,
+---
+discrete time and frequency domains. Prerequisite:  ECEN 326 or
+equivalent.
+ECEN 621 Mobile Wireless Networks
+Credits 3. 3 Lecture Hours.  Foundations of advanced mobile wireless
+networks, how they are designed, and how well they perform; topics
+include fundamentals on mobile wireless networks, TCP/IP over wireless
+links, fading-channel modeling, CDMA, OFDM, MIMO, error control,
+IEEE 802.11 protocols, cross-layer optimization, wireless QoS, mobile
+multicast, VANETs, wireless-sensor networks, wireless networks security.
+Prerequisites:  Basic-level computer networks class or approval of
+instructor.
+ECEN 622 Active Network Synthesis
+---
+include fundamentals on mobile wireless networks, TCP/IP over wireless
+links, fading-channel modeling, CDMA, OFDM, MIMO, error control,
+IEEE 802.11 protocols, cross-layer optimization, wireless QoS, mobile
+multicast, VANETs, wireless-sensor networks, wireless networks security.
+Prerequisites:  Basic-level computer networks class or approval of
+instructor.
+ECEN 622 Active Network Synthesis
+Credits 3. 3 Lecture Hours.  Methods of analyzing and synthesizing
+active networks; sensitivity analysis, methods of rational fraction
+approximation, OP AMP modeling and stability. Prerequisite:  ECEN 457 or
+equivalent.ECEN 625 Millimeter-wave Integrated
+Circuits
+---
+Prerequisites:  Basic-level computer networks class or approval of
+instructor.
+ECEN 622 Active Network Synthesis
+Credits 3. 3 Lecture Hours.  Methods of analyzing and synthesizing
+active networks; sensitivity analysis, methods of rational fraction
+approximation, OP AMP modeling and stability. Prerequisite:  ECEN 457 or
+equivalent.ECEN 625 Millimeter-wave Integrated
+Circuits
+Credits 3. 3 Lecture Hours.  Applications of millimeter-wave integrated
+circuits for wireless transceiver; principles of operation, modeling, design
+and fabrication of the most common millimeter-wave CMOS, SiGe and
+RF MEMS circuits. Prerequisite:  Graduate classiﬁcation; approval of
+instructor.
+---
+equivalent.ECEN 625 Millimeter-wave Integrated
+Circuits
+Credits 3. 3 Lecture Hours.  Applications of millimeter-wave integrated
+circuits for wireless transceiver; principles of operation, modeling, design
+and fabrication of the most common millimeter-wave CMOS, SiGe and
+RF MEMS circuits. Prerequisite:  Graduate classiﬁcation; approval of
+instructor.
+ECEN 628 Robust and Optimal Control
+Credits 3. 3 Lecture Hours.  Modern design of (Proportional Integral
+Derivative) controllers, robust control under parametric uncertainty and
+optimal control using quadratic optimization. Prerequisite:  ECEN 605;
+graduate classiﬁcation.
+ECEN 629 Applied Convex Optimization
+---
+RF MEMS circuits. Prerequisite:  Graduate classiﬁcation; approval of
+instructor.
+ECEN 628 Robust and Optimal Control
+Credits 3. 3 Lecture Hours.  Modern design of (Proportional Integral
+Derivative) controllers, robust control under parametric uncertainty and
+optimal control using quadratic optimization. Prerequisite:  ECEN 605;
+graduate classiﬁcation.
+ECEN 629 Applied Convex Optimization
+Credits 3. 3 Lecture Hours.  Introduction to convex optimization including
+convex set, convex functions, convex optimization problems, KKT
+conditions and duality, unconstrained optimization, and interior-point
+methods for constrained optimization; applications in information
+---
+graduate classiﬁcation.
+ECEN 629 Applied Convex Optimization
+Credits 3. 3 Lecture Hours.  Introduction to convex optimization including
+convex set, convex functions, convex optimization problems, KKT
+conditions and duality, unconstrained optimization, and interior-point
+methods for constrained optimization; applications in information
+science, digital systems, networks and learning. Prerequisites:  ECEN 601
+or equivalent.
+ECEN 630 Analysis of Power Electronic
+Systems
+Credits 3. 3 Lecture Hours.  Analysis and control of semiconductor
+switching power converters using specialized methods such as Fourier
+series, state-space averaging, time domain transfer functions, sliding
+---
+science, digital systems, networks and learning. Prerequisites:  ECEN 601
+or equivalent.
+ECEN 630 Analysis of Power Electronic
+Systems
+Credits 3. 3 Lecture Hours.  Analysis and control of semiconductor
+switching power converters using specialized methods such as Fourier
+series, state-space averaging, time domain transfer functions, sliding
+mode, quadrometrics and other discontinuous orthogonal functions;
+application of the above techniques in practice; selected research
+publications. Prerequisite:  Approval of instructor.
+ECEN 632 Motor Drive Dynamics
+Credits 3. 3 Lecture Hours.  Dynamic of electric machinery in general and
+---
+series, state-space averaging, time domain transfer functions, sliding
+mode, quadrometrics and other discontinuous orthogonal functions;
+application of the above techniques in practice; selected research
+publications. Prerequisite:  Approval of instructor.
+ECEN 632 Motor Drive Dynamics
+Credits 3. 3 Lecture Hours.  Dynamic of electric machinery in general and
+in particular induction machines; scalar control as well as vector control
+of electric machines; direct and indirect vector control for synchronous
+and induction motors; parameter sensitivity and saturation effects in
+indirect ﬁeld orientation and ﬁeld weakening operation of induction
+machines. Prerequisites:  Approval of instructor.
+---
+in particular induction machines; scalar control as well as vector control
+of electric machines; direct and indirect vector control for synchronous
+and induction motors; parameter sensitivity and saturation effects in
+indirect ﬁeld orientation and ﬁeld weakening operation of induction
+machines. Prerequisites:  Approval of instructor.
+ECEN 635 Electromagnetic Theory
+Credits 3. 3 Lecture Hours.  Maxwell's equations, boundary conditions,
+Poynting's theorem, electromagnetic potentials, Green's functions,
+Helmholtz's equation, ﬁeld equivalence theorems; applications
+to problems involving transmission scattering and diffraction of
+electromagnetic waves. Prerequisites:  ECEN 322; ECEN 351 or
+---
+ECEN 635 Electromagnetic Theory
+Credits 3. 3 Lecture Hours.  Maxwell's equations, boundary conditions,
+Poynting's theorem, electromagnetic potentials, Green's functions,
+Helmholtz's equation, ﬁeld equivalence theorems; applications
+to problems involving transmission scattering and diffraction of
+electromagnetic waves. Prerequisites:  ECEN 322; ECEN 351 or
+equivalent.
+ECEN 636 Phased Arrays
+Credits 3. 3 Lecture Hours.  Theory and application of phased array
+antennas, radiators and sensors; spatial and spectral domain analysis
+of phased arrays including element-by-element, inﬁnite array and Fourier
+methods; applications will include phased arrays, adaptive arrays, and
+---
+electromagnetic waves. Prerequisites:  ECEN 322; ECEN 351 or
+equivalent.
+ECEN 636 Phased Arrays
+Credits 3. 3 Lecture Hours.  Theory and application of phased array
+antennas, radiators and sensors; spatial and spectral domain analysis
+of phased arrays including element-by-element, inﬁnite array and Fourier
+methods; applications will include phased arrays, adaptive arrays, and
+synthesis array antennas; for use in radar, imaging and biomedical
+treatment and diagnosis. Prerequisite:  ECEN 322 or equivalent.ECEN - Electrical & Comp Engr 3
+ECEN 637 Numerical Methods in
+Electromagnetics
+Credits 3. 3 Lecture Hours.  Numerical methods of engineering
+---
+methods; applications will include phased arrays, adaptive arrays, and
+synthesis array antennas; for use in radar, imaging and biomedical
+treatment and diagnosis. Prerequisite:  ECEN 322 or equivalent.ECEN - Electrical & Comp Engr 3
+ECEN 637 Numerical Methods in
+Electromagnetics
+Credits 3. 3 Lecture Hours.  Numerical methods of engineering
+electromagnetics, including ﬁnite differencing, ﬁnite difference time
+domain, ﬁnite elements, the method of moments and parabolic equation.
+Prerequisite:  ECEN 322.
+ECEN 638 Antennas and Propagation
+Credits 3. 3 Lecture Hours.  Application of Maxwell's equations to
+determine electromagnetic ﬁelds of antennas; radiation, directional
+---
+Credits 3. 3 Lecture Hours.  Numerical methods of engineering
+electromagnetics, including ﬁnite differencing, ﬁnite difference time
+domain, ﬁnite elements, the method of moments and parabolic equation.
+Prerequisite:  ECEN 322.
+ECEN 638 Antennas and Propagation
+Credits 3. 3 Lecture Hours.  Application of Maxwell's equations to
+determine electromagnetic ﬁelds of antennas; radiation, directional
+arrays, impedance characteristics, aperture antennas. Prerequisite:
+ECEN 322.
+ECEN 639 Microwave Circuits
+Credits 3. 3 Lecture Hours.  Introduction to high frequency systems
+and circuits; provides background information needed to understand
+---
+Credits 3. 3 Lecture Hours.  Application of Maxwell's equations to
+determine electromagnetic ﬁelds of antennas; radiation, directional
+arrays, impedance characteristics, aperture antennas. Prerequisite:
+ECEN 322.
+ECEN 639 Microwave Circuits
+Credits 3. 3 Lecture Hours.  Introduction to high frequency systems
+and circuits; provides background information needed to understand
+fundamentals of microwave integrated circuits; includes usage of
+S-parameters, Smith Charts, stability considerations in designing
+microwave circuits; utilizes CAD program "Super Compact"
+demonstrating design synthesis optimization and analysis of monolithic
+devices and circuits. Prerequisite:  Graduate classiﬁcation.
+---
+and circuits; provides background information needed to understand
+fundamentals of microwave integrated circuits; includes usage of
+S-parameters, Smith Charts, stability considerations in designing
+microwave circuits; utilizes CAD program "Super Compact"
+demonstrating design synthesis optimization and analysis of monolithic
+devices and circuits. Prerequisite:  Graduate classiﬁcation.
+ECEN 640 Thin Film Science and
+TechnologyCredits 3. 3 Lecture Hours. 1 Lab Hour. Thin ﬁlm technology in
+semiconductor industry; topics include the basic growth mechanisms for
+thin ﬁlms (growth models, lattice matching epitaxy and domain matching
+---
+demonstrating design synthesis optimization and analysis of monolithic
+devices and circuits. Prerequisite:  Graduate classiﬁcation.
+ECEN 640 Thin Film Science and
+TechnologyCredits 3. 3 Lecture Hours. 1 Lab Hour. Thin ﬁlm technology in
+semiconductor industry; topics include the basic growth mechanisms for
+thin ﬁlms (growth models, lattice matching epitaxy and domain matching
+epitaxy), the instrumental aspects of different growth techniques and
+advanced topics related to various applications. Prerequisites:  Graduate
+classiﬁcation.
+ECEN 641 Microwave Solid-State
+Integrated Circuits
+Credits 3. 3 Lecture Hours.  Microwave two-terminal and three-terminal
+---
+thin ﬁlms (growth models, lattice matching epitaxy and domain matching
+epitaxy), the instrumental aspects of different growth techniques and
+advanced topics related to various applications. Prerequisites:  Graduate
+classiﬁcation.
+ECEN 641 Microwave Solid-State
+Integrated Circuits
+Credits 3. 3 Lecture Hours.  Microwave two-terminal and three-terminal
+solid-state devices; waveguide and microstrip solid-state circuits; theory
+and design of microwave mixers, detectors, modulators, switches, phase
+shifters, oscillators and ampliﬁers. Prerequisite:  ECEN 322.
+ECEN 642 Digital Image Processing and
+Computer Vision
+Credits 3. 3 Lecture Hours.  Digital Image Processing and computer vision
+---
+solid-state devices; waveguide and microstrip solid-state circuits; theory
+and design of microwave mixers, detectors, modulators, switches, phase
+shifters, oscillators and ampliﬁers. Prerequisite:  ECEN 322.
+ECEN 642 Digital Image Processing and
+Computer Vision
+Credits 3. 3 Lecture Hours.  Digital Image Processing and computer vision
+techniques; stresses ﬁltering, intensity transformations, compression,
+restoration and reconstruction, morphology, segmentation, feature
+extraction and pattern classiﬁcation. Prerequisite:  ECEN 447 and
+ECEN 601, or approval of instructor.
+ECEN 643 Electric Power System
+Reliability
+Credits 3. 3 Lecture Hours.  Design and application of mathematical
+---
+techniques; stresses ﬁltering, intensity transformations, compression,
+restoration and reconstruction, morphology, segmentation, feature
+extraction and pattern classiﬁcation. Prerequisite:  ECEN 447 and
+ECEN 601, or approval of instructor.
+ECEN 643 Electric Power System
+Reliability
+Credits 3. 3 Lecture Hours.  Design and application of mathematical
+models for estimating various measures of reliability in electric power
+systems. Prerequisite:  ECEN 460 or approval of instructor.
+ECEN 644 Discrete-Time Systems
+Credits 3. 3 Lecture Hours.  Linear discrete time systems analysis using
+time domain and transform approaches; digital ﬁlter design techniques
+---
+Reliability
+Credits 3. 3 Lecture Hours.  Design and application of mathematical
+models for estimating various measures of reliability in electric power
+systems. Prerequisite:  ECEN 460 or approval of instructor.
+ECEN 644 Discrete-Time Systems
+Credits 3. 3 Lecture Hours.  Linear discrete time systems analysis using
+time domain and transform approaches; digital ﬁlter design techniques
+with digital computer implementations. Prerequisite:  ECEN 601, or
+approval of instructor.ECEN 646 Probability and Random
+Processes for Information Science
+Credits 3. 3 Lecture Hours.  Concepts of probability and random
+processes necessary for advanced study of information science, digital
+---
+time domain and transform approaches; digital ﬁlter design techniques
+with digital computer implementations. Prerequisite:  ECEN 601, or
+approval of instructor.ECEN 646 Probability and Random
+Processes for Information Science
+Credits 3. 3 Lecture Hours.  Concepts of probability and random
+processes necessary for advanced study of information science, digital
+communications, networks, stochastic control and other engineering
+systems involving uncertainty; applications to detection, channel coding,
+queuing, optimization and inference.
+ECEN 647 Information Theory
+Credits 3. 3 Lecture Hours.  Deﬁnition of information; coding of
+---
+processes necessary for advanced study of information science, digital
+communications, networks, stochastic control and other engineering
+systems involving uncertainty; applications to detection, channel coding,
+queuing, optimization and inference.
+ECEN 647 Information Theory
+Credits 3. 3 Lecture Hours.  Deﬁnition of information; coding of
+information for transmission over a noisy channel including additive
+gaussian noise channels and waveform channels; minimum rates at
+which sources can be encoded; maximum rates at which information can
+be transmitted over noisy channels. Prerequisite:  ECEN 646 or equivalent
+probability background.
+ECEN 648 Principles of Magnetic
+Resonance Imaging
+---
+information for transmission over a noisy channel including additive
+gaussian noise channels and waveform channels; minimum rates at
+which sources can be encoded; maximum rates at which information can
+be transmitted over noisy channels. Prerequisite:  ECEN 646 or equivalent
+probability background.
+ECEN 648 Principles of Magnetic
+Resonance Imaging
+Credits 3. 3 Lecture Hours.  Introduction to the theory and design of
+magnetic resonance imaging systems; fundamental physical and
+mathematical introduction to image acquisition and reconstruction
+using magnetic resonance; overview of imaging system design, including
+magnets, imaging gradients and radio-frequency systems, contrast
+---
+ECEN 648 Principles of Magnetic
+Resonance Imaging
+Credits 3. 3 Lecture Hours.  Introduction to the theory and design of
+magnetic resonance imaging systems; fundamental physical and
+mathematical introduction to image acquisition and reconstruction
+using magnetic resonance; overview of imaging system design, including
+magnets, imaging gradients and radio-frequency systems, contrast
+mechanisms, resolution. Prerequisite:  ECEN 314 or ECEN 322 or approval
+of instructor.
+ECEN 649 Pattern Recognition
+Credits 3. 3 Lecture Hours.  Introduction to the underlying principles
+of classiﬁcation, and computer recognition of imagery and robotic
+---
+using magnetic resonance; overview of imaging system design, including
+magnets, imaging gradients and radio-frequency systems, contrast
+mechanisms, resolution. Prerequisite:  ECEN 314 or ECEN 322 or approval
+of instructor.
+ECEN 649 Pattern Recognition
+Credits 3. 3 Lecture Hours.  Introduction to the underlying principles
+of classiﬁcation, and computer recognition of imagery and robotic
+applications. Prerequisite:  MATH 601 or STAT 601, and approval of
+instructor.
+ECEN 651 Microprogrammed Control of
+Digital Systems
+Credits 4. 3 Lecture Hours. 3 Lab Hours.  Hardware and software
+concepts involved in the design and construction of microprocessor-
+---
+Credits 3. 3 Lecture Hours.  Introduction to the underlying principles
+of classiﬁcation, and computer recognition of imagery and robotic
+applications. Prerequisite:  MATH 601 or STAT 601, and approval of
+instructor.
+ECEN 651 Microprogrammed Control of
+Digital Systems
+Credits 4. 3 Lecture Hours. 3 Lab Hours.  Hardware and software
+concepts involved in the design and construction of microprocessor-
+based digital systems; microprocessor architecture; bussing; interfacing;
+data input/output; memories; and software development for operation
+and testing; design projects with microprocessors and related
+components. Prerequisites:  ECEN 350/CSCE 350 and ECEN 449 or
+approval of instructor.
+---
+concepts involved in the design and construction of microprocessor-
+based digital systems; microprocessor architecture; bussing; interfacing;
+data input/output; memories; and software development for operation
+and testing; design projects with microprocessors and related
+components. Prerequisites:  ECEN 350/CSCE 350 and ECEN 449 or
+approval of instructor.
+ECEN 653 Computer Arithmetic Unit
+Design
+Credits 3. 3 Lecture Hours.  Digital computer arithmetic unit design,
+control and memory; microprocessor arithmetic logic unit (ALU) design;
+high-speed addition, subtraction, multiplication and division algorithms
+and implementations; design and simulation with integrated circuit
+---
+approval of instructor.
+ECEN 653 Computer Arithmetic Unit
+Design
+Credits 3. 3 Lecture Hours.  Digital computer arithmetic unit design,
+control and memory; microprocessor arithmetic logic unit (ALU) design;
+high-speed addition, subtraction, multiplication and division algorithms
+and implementations; design and simulation with integrated circuit
+components and VLSI circuits. Prerequisite:  ECEN 651.
+ECEN 654 Very Large Scale Integrated
+Systems Design
+Credits 4. 3 Lecture Hours. 3 Lab Hours.  Design and fabrication of
+microelectronic circuits such as registers, selectors, PLAs, sequential
+and micoprogrammed machines via large scale integrated circuitry with
+---
+and implementations; design and simulation with integrated circuit
+components and VLSI circuits. Prerequisite:  ECEN 651.
+ECEN 654 Very Large Scale Integrated
+Systems Design
+Credits 4. 3 Lecture Hours. 3 Lab Hours.  Design and fabrication of
+microelectronic circuits such as registers, selectors, PLAs, sequential
+and micoprogrammed machines via large scale integrated circuitry with
+emphasis on high-level, structured design methods for VLSI systems;
+design small to medium scale integrated circuits for fabrication by
+industry. Prerequisites:  ECEN 454 or equivalent undergraduate VLSI
+course.4  ECEN - Electrical & Comp Engr
+ECEN 658 Low-Noise Electronic Design
+---
+and micoprogrammed machines via large scale integrated circuitry with
+emphasis on high-level, structured design methods for VLSI systems;
+design small to medium scale integrated circuits for fabrication by
+industry. Prerequisites:  ECEN 454 or equivalent undergraduate VLSI
+course.4  ECEN - Electrical & Comp Engr
+ECEN 658 Low-Noise Electronic Design
+Credits 3. 3 Lecture Hours.  Low-noise design; surveying the subject of
+handling electronic noise from theory to measurement, design, research
+and developments. Prerequisite:  Approval of instructor.
+ECEN 660 BioMEMS and Lab-on-a-Chip
+Credits 3. 3 Lecture Hours.  Introduction to lab-on-a-chip technology;
+---
+course.4  ECEN - Electrical & Comp Engr
+ECEN 658 Low-Noise Electronic Design
+Credits 3. 3 Lecture Hours.  Low-noise design; surveying the subject of
+handling electronic noise from theory to measurement, design, research
+and developments. Prerequisite:  Approval of instructor.
+ECEN 660 BioMEMS and Lab-on-a-Chip
+Credits 3. 3 Lecture Hours.  Introduction to lab-on-a-chip technology;
+microfabrication techniques commonly used in BioMems device
+fabrication; microfluidics miniaturized systems for chemical and
+biomedical applications such as separation, diagnosis tools, implantable
+devices, drug delivery, and microsystems for cellular studies and tissue
+---
+ECEN 660 BioMEMS and Lab-on-a-Chip
+Credits 3. 3 Lecture Hours.  Introduction to lab-on-a-chip technology;
+microfabrication techniques commonly used in BioMems device
+fabrication; microfluidics miniaturized systems for chemical and
+biomedical applications such as separation, diagnosis tools, implantable
+devices, drug delivery, and microsystems for cellular studies and tissue
+engineering; will gain a broad perspective in the area of miniaturized
+systems for biomedical and chemical applications. Prerequisite:  Approval
+of instructor.
+ECEN 661 Advanced Digital
+Communications
+Credits 3. 3 Lecture Hours.  Digital communication systems; coding for
+---
+devices, drug delivery, and microsystems for cellular studies and tissue
+engineering; will gain a broad perspective in the area of miniaturized
+systems for biomedical and chemical applications. Prerequisite:  Approval
+of instructor.
+ECEN 661 Advanced Digital
+Communications
+Credits 3. 3 Lecture Hours.  Digital communication systems; coding for
+discrete sources and quantization; source and channel waveforms, signal
+spaces; modulation and demodulation, random noise; detection, error
+control coding, efﬁcient decoding algorithms. Prerequisite:  ECEN 646 or
+equivalent.
+ECEN 662 Estimation and Detection
+Theory
+Credits 3. 3 Lecture Hours.  Probabilistic signal detection theory and
+---
+discrete sources and quantization; source and channel waveforms, signal
+spaces; modulation and demodulation, random noise; detection, error
+control coding, efﬁcient decoding algorithms. Prerequisite:  ECEN 646 or
+equivalent.
+ECEN 662 Estimation and Detection
+Theory
+Credits 3. 3 Lecture Hours.  Probabilistic signal detection theory and
+parameter estimation theory; Neyman-Pearson, UMP, and locally optimal
+tests; discrete time Markov processes and the Kalman and Wiener ﬁlters;
+bayesian, maximum likelihood and conditional mean estimation methods.
+Prerequisite:  ECEN 646.
+ECEN 663 Data Compression with
+Applications to Speech and Video
+---
+Theory
+Credits 3. 3 Lecture Hours.  Probabilistic signal detection theory and
+parameter estimation theory; Neyman-Pearson, UMP, and locally optimal
+tests; discrete time Markov processes and the Kalman and Wiener ﬁlters;
+bayesian, maximum likelihood and conditional mean estimation methods.
+Prerequisite:  ECEN 646.
+ECEN 663 Data Compression with
+Applications to Speech and Video
+Credits 3. 3 Lecture Hours.  Characterization and representation of
+waveforms; digital coding of waveforms including PCM, delta modulation,
+DPCM, tree/trellis coding, runlength coding, sub-band coding and
+transform coding; rate distortion theoretic performance bounds.
+---
+Prerequisite:  ECEN 646.
+ECEN 663 Data Compression with
+Applications to Speech and Video
+Credits 3. 3 Lecture Hours.  Characterization and representation of
+waveforms; digital coding of waveforms including PCM, delta modulation,
+DPCM, tree/trellis coding, runlength coding, sub-band coding and
+transform coding; rate distortion theoretic performance bounds.
+Prerequisite:  ECEN 601 and ECEN 646, or approval of instructor.
+ECEN 664 Nanotechnology Fabrication
+Credits 3. 3 Lecture Hours.  Cutting edge nanostructure fabrication
+techniques for both top-down and bottom up approaches. Prerequisite:
+Approval of instructor.
+ECEN 665 Integrated CMOS RF Circuits
+and Systems
+---
+transform coding; rate distortion theoretic performance bounds.
+Prerequisite:  ECEN 601 and ECEN 646, or approval of instructor.
+ECEN 664 Nanotechnology Fabrication
+Credits 3. 3 Lecture Hours.  Cutting edge nanostructure fabrication
+techniques for both top-down and bottom up approaches. Prerequisite:
+Approval of instructor.
+ECEN 665 Integrated CMOS RF Circuits
+and Systems
+Credits 4. 3 Lecture Hours. 2 Lab Hours.  Introduction to wireless
+communication systems at the theoretical, algorithmic and circuit levels;
+emphasis on simulation at the architecture, transistor levels of the
+communication systems; focus on circuits implementable on CMOS and
+---
+Approval of instructor.
+ECEN 665 Integrated CMOS RF Circuits
+and Systems
+Credits 4. 3 Lecture Hours. 2 Lab Hours.  Introduction to wireless
+communication systems at the theoretical, algorithmic and circuit levels;
+emphasis on simulation at the architecture, transistor levels of the
+communication systems; focus on circuits implementable on CMOS and
+BiCMOS technologies. Prerequisites:  ECEN 453, ECEN 456, ECEN 474.
+ECEN 666 Power System Faults and
+Protective Relaying
+Credits 3. 3 Lecture Hours.  Calculation of power system currents and
+voltages during faults; protective relaying principles, application and
+response to system faults. Prerequisite:  ECEN 460 or approval of
+---
+communication systems; focus on circuits implementable on CMOS and
+BiCMOS technologies. Prerequisites:  ECEN 453, ECEN 456, ECEN 474.
+ECEN 666 Power System Faults and
+Protective Relaying
+Credits 3. 3 Lecture Hours.  Calculation of power system currents and
+voltages during faults; protective relaying principles, application and
+response to system faults. Prerequisite:  ECEN 460 or approval of
+instructor.ECEN 667 Power System Stability
+Credits 3. 3 Lecture Hours.  Steady-state, dynamic and transient stability
+of power systems; solution techniques; effect of generator control
+systems. Prerequisite:  ECEN 460 or approval of instructor.
+ECEN 668 High Voltage Direct Current
+(HVDC) Transmission
+---
+response to system faults. Prerequisite:  ECEN 460 or approval of
+instructor.ECEN 667 Power System Stability
+Credits 3. 3 Lecture Hours.  Steady-state, dynamic and transient stability
+of power systems; solution techniques; effect of generator control
+systems. Prerequisite:  ECEN 460 or approval of instructor.
+ECEN 668 High Voltage Direct Current
+(HVDC) Transmission
+Credits 3. 3 Lecture Hours.  Overview of HVDC systems; comparison of AC
+and DC power transmission; study of six-pulse and twelve-pulse power
+converters; analysis and control of HVDC systems; harmonics and power
+factor effects; system faults and misoperations; state of the art and
+---
+systems. Prerequisite:  ECEN 460 or approval of instructor.
+ECEN 668 High Voltage Direct Current
+(HVDC) Transmission
+Credits 3. 3 Lecture Hours.  Overview of HVDC systems; comparison of AC
+and DC power transmission; study of six-pulse and twelve-pulse power
+converters; analysis and control of HVDC systems; harmonics and power
+factor effects; system faults and misoperations; state of the art and
+future developments in HVDC technology; inspection trips. Prerequisite:
+Approval of instructor.
+ECEN 669 Engineering Applications in
+Genomics
+Credits 3. 3 Lecture Hours.  Tutorial introduction to the current
+engineering research in genomics; necessary molecular biology
+---
+factor effects; system faults and misoperations; state of the art and
+future developments in HVDC technology; inspection trips. Prerequisite:
+Approval of instructor.
+ECEN 669 Engineering Applications in
+Genomics
+Credits 3. 3 Lecture Hours.  Tutorial introduction to the current
+engineering research in genomics; necessary molecular biology
+background presented and techniques from signal processing and
+control are used to (i) unearth intergene relationships (ii) model genetic
+regulatory networks and (iii) alter their dynamic behavior. Prerequisite:
+ECEN 605 or approval of instructor.
+ECEN 671 Solid State Devices
+Credits 3. 3 Lecture Hours.  Development of mathematical analysis and
+---
+background presented and techniques from signal processing and
+control are used to (i) unearth intergene relationships (ii) model genetic
+regulatory networks and (iii) alter their dynamic behavior. Prerequisite:
+ECEN 605 or approval of instructor.
+ECEN 671 Solid State Devices
+Credits 3. 3 Lecture Hours.  Development of mathematical analysis and
+systematic modeling of solid state devices; relationships of measurable
+electrical characteristics to morphology and material properties of solid
+state devices, p-n junction, bipolar and unipolar transistors. Prerequisites:
+Graduate classiﬁcation.
+ECEN 674/PHYS 674 Introduction to
+Quantum Computing
+---
+ECEN 671 Solid State Devices
+Credits 3. 3 Lecture Hours.  Development of mathematical analysis and
+systematic modeling of solid state devices; relationships of measurable
+electrical characteristics to morphology and material properties of solid
+state devices, p-n junction, bipolar and unipolar transistors. Prerequisites:
+Graduate classiﬁcation.
+ECEN 674/PHYS 674 Introduction to
+Quantum Computing
+Credits 3. 3 Lecture Hours.  Introduces the quantum mechanics, quantum
+gates, quantum circuits and quantum hardware of potential quantum
+computers; algorithms, potential uses, complexity classes, and evaluation
+of coherence of these devices. Prerequisites:  MATH 304, PHYS 208.
+---
+Graduate classiﬁcation.
+ECEN 674/PHYS 674 Introduction to
+Quantum Computing
+Credits 3. 3 Lecture Hours.  Introduces the quantum mechanics, quantum
+gates, quantum circuits and quantum hardware of potential quantum
+computers; algorithms, potential uses, complexity classes, and evaluation
+of coherence of these devices. Prerequisites:  MATH 304, PHYS 208.
+Cross Listing:  PHYS 674/ECEN 674.
+ECEN 675 Integrated Optoelectronics
+Credits 3. 3 Lecture Hours.  Light propagation and interactions in
+anisotropic media; electrooptic and acoustooptic effects; passive
+and active guided-wave devices; fabrication and characterization.
+Prerequisite:  ECEN 464 or equivalent.
+ECEN 676 Advanced Computer
+---
+Cross Listing:  PHYS 674/ECEN 674.
+ECEN 675 Integrated Optoelectronics
+Credits 3. 3 Lecture Hours.  Light propagation and interactions in
+anisotropic media; electrooptic and acoustooptic effects; passive
+and active guided-wave devices; fabrication and characterization.
+Prerequisite:  ECEN 464 or equivalent.
+ECEN 676 Advanced Computer
+Architecture
+Credits 3. 3 Lecture Hours.  Design of advanced computers for parallel
+processing; emphasis on the overall structure; interconnection networks;
+including single-stage and multi-stage structures; shared memory
+and message passing architectures; control-flow and demand-driven
+programming; multithreaded architectures; ﬁne-grain and coarse-grain
+---
+ECEN 676 Advanced Computer
+Architecture
+Credits 3. 3 Lecture Hours.  Design of advanced computers for parallel
+processing; emphasis on the overall structure; interconnection networks;
+including single-stage and multi-stage structures; shared memory
+and message passing architectures; control-flow and demand-driven
+programming; multithreaded architectures; ﬁne-grain and coarse-grain
+parallelism; SIMD and MIMD; processor designs for parallel operation.
+Prerequisite:  ECEN 651 or CSCE 614 or approval of instructor.
+ECEN 677 Control of Electric Power
+Systems
+Credits 3. 3 Lecture Hours.  Modeling, analysis and real-time control of
+---
+and message passing architectures; control-flow and demand-driven
+programming; multithreaded architectures; ﬁne-grain and coarse-grain
+parallelism; SIMD and MIMD; processor designs for parallel operation.
+Prerequisite:  ECEN 651 or CSCE 614 or approval of instructor.
+ECEN 677 Control of Electric Power
+Systems
+Credits 3. 3 Lecture Hours.  Modeling, analysis and real-time control of
+electric power systems to meet the requirements of economic dispatch
+of voltage and power. Prerequisite:  Approval of instructor.ECEN - Electrical & Comp Engr 5
+ECEN 679 Computer Relays for Electric
+Power Systems
+Credits 3. 3 Lecture Hours.  Real-time digital computer application to
+---
+ECEN 677 Control of Electric Power
+Systems
+Credits 3. 3 Lecture Hours.  Modeling, analysis and real-time control of
+electric power systems to meet the requirements of economic dispatch
+of voltage and power. Prerequisite:  Approval of instructor.ECEN - Electrical & Comp Engr 5
+ECEN 679 Computer Relays for Electric
+Power Systems
+Credits 3. 3 Lecture Hours.  Real-time digital computer application to
+protective relaying; extensive overview of digital protection algorithms;
+latest technological advancements as microprocessor-based relays, ﬁber-
+optic communication systems, unconventional instrument transformers,
+dynamic testing tools and methodologies. Prerequisite:  Approval of
+instructor.
+---
+Power Systems
+Credits 3. 3 Lecture Hours.  Real-time digital computer application to
+protective relaying; extensive overview of digital protection algorithms;
+latest technological advancements as microprocessor-based relays, ﬁber-
+optic communication systems, unconventional instrument transformers,
+dynamic testing tools and methodologies. Prerequisite:  Approval of
+instructor.
+ECEN 680/CSCE 680 Testing and
+Diagnosis of Digital Systems
+Credits 3. 3 Lecture Hours.  The theory and techniques of testing VLSI-
+based circuits and systems, and design for testability. Prerequisites:
+ECEN 248 or equivalent; ECEN 350/CSCE 350 or CSCE 350/ECEN 350 or
+equivalent. Cross Listing:  CSCE 680/ECEN 680.
+---
+dynamic testing tools and methodologies. Prerequisite:  Approval of
+instructor.
+ECEN 680/CSCE 680 Testing and
+Diagnosis of Digital Systems
+Credits 3. 3 Lecture Hours.  The theory and techniques of testing VLSI-
+based circuits and systems, and design for testability. Prerequisites:
+ECEN 248 or equivalent; ECEN 350/CSCE 350 or CSCE 350/ECEN 350 or
+equivalent. Cross Listing:  CSCE 680/ECEN 680.
+ECEN 681 SeminarCredit 1. 1 Lecture Hour. Reports and discussion of current research
+and of selected published technical articles. May be taken four times for
+credit. Prerequisite:  Graduate classiﬁcation in electrical and computer
+engineering.
+ECEN 683 Wireless Communication
+Systems
+---
+ECEN 248 or equivalent; ECEN 350/CSCE 350 or CSCE 350/ECEN 350 or
+equivalent. Cross Listing:  CSCE 680/ECEN 680.
+ECEN 681 SeminarCredit 1. 1 Lecture Hour. Reports and discussion of current research
+and of selected published technical articles. May be taken four times for
+credit. Prerequisite:  Graduate classiﬁcation in electrical and computer
+engineering.
+ECEN 683 Wireless Communication
+Systems
+Credits 3. 3 Lecture Hours.  Wireless applications, modulation
+formats, wireless channel models and simulation techniques, digital
+communication over wireless channels, multiple access techniques,
+wireless standards. Prerequisite:  ECEN 646 or approval of instructor.
+ECEN 684 Professional Internship
+---
+engineering.
+ECEN 683 Wireless Communication
+Systems
+Credits 3. 3 Lecture Hours.  Wireless applications, modulation
+formats, wireless channel models and simulation techniques, digital
+communication over wireless channels, multiple access techniques,
+wireless standards. Prerequisite:  ECEN 646 or approval of instructor.
+ECEN 684 Professional Internship
+Credits 1 to 4. 1 to 4 Other Hours.  Engineering research and design
+experience at industrial facilities away from the Texas A&M campus;
+design projects supervised by faculty coordinators and personnel
+at these locations; projects selected to match student's area of
+specialization. Prerequisites:  Graduate classiﬁcation and one semester of
+---
+ECEN 684 Professional Internship
+Credits 1 to 4. 1 to 4 Other Hours.  Engineering research and design
+experience at industrial facilities away from the Texas A&M campus;
+design projects supervised by faculty coordinators and personnel
+at these locations; projects selected to match student's area of
+specialization. Prerequisites:  Graduate classiﬁcation and one semester of
+coursework completed.
+ECEN 685 Directed Studies
+Credits 1 to 12. 1 to 12 Other Hours.  Research problems of limited scope
+designed primarily to develop research technique.
+ECEN 686 Electric and Hybrid Vehicles
+Credits 3. 3 Lecture Hours.  Fundamental concepts of electric and hybrid-
+---
+specialization. Prerequisites:  Graduate classiﬁcation and one semester of
+coursework completed.
+ECEN 685 Directed Studies
+Credits 1 to 12. 1 to 12 Other Hours.  Research problems of limited scope
+designed primarily to develop research technique.
+ECEN 686 Electric and Hybrid Vehicles
+Credits 3. 3 Lecture Hours.  Fundamental concepts of electric and hybrid-
+electric vehicles introduced, component requirements and system design
+methodologies discussed; vehicle system analysis and simulation
+methods presented. Prerequisite:  Graduate classiﬁcation or approval of
+instructor.
+ECEN 687 Introduction to VLSI Physical
+Design Automation
+---
+ECEN 686 Electric and Hybrid Vehicles
+Credits 3. 3 Lecture Hours.  Fundamental concepts of electric and hybrid-
+electric vehicles introduced, component requirements and system design
+methodologies discussed; vehicle system analysis and simulation
+methods presented. Prerequisite:  Graduate classiﬁcation or approval of
+instructor.
+ECEN 687 Introduction to VLSI Physical
+Design Automation
+Credits 3. 3 Lecture Hours.  Algorithms and techniques for VLSI design
+automation, including basic optimization techniques, high level synthesis,
+logic synthesis/veriﬁcation, physical design, timing veriﬁcation and
+optimization.ECEN 688 IC MEMS and Sensor
+Fabrication
+---
+instructor.
+ECEN 687 Introduction to VLSI Physical
+Design Automation
+Credits 3. 3 Lecture Hours.  Algorithms and techniques for VLSI design
+automation, including basic optimization techniques, high level synthesis,
+logic synthesis/veriﬁcation, physical design, timing veriﬁcation and
+optimization.ECEN 688 IC MEMS and Sensor
+Fabrication
+Credits 4. 3 Lecture Hours. 3 Lab Hours.  Fundamental unit processes
+for the fabrication of silicon IC's and extension of these processes to
+the specialized micro-machining operations used for MEMS and sensor
+fabrication; basic process operations used in the laboratory to build
+simple IC structures; devices then characterized. Prerequisite:  ECEN 325,
+---
+Fabrication
+Credits 4. 3 Lecture Hours. 3 Lab Hours.  Fundamental unit processes
+for the fabrication of silicon IC's and extension of these processes to
+the specialized micro-machining operations used for MEMS and sensor
+fabrication; basic process operations used in the laboratory to build
+simple IC structures; devices then characterized. Prerequisite:  ECEN 325,
+ECEN 370, or approval of instructor.
+ECEN 689 Special Topics in...
+Credits 1 to 4. 1 to 4 Lecture Hours. 0 to 4 Lab Hours.  Advanced topics
+of current interest in electrical engineering. May be repeated for credit.
+Prerequisite:  Approval of instructor.
+ECEN 691 Research
+---
+simple IC structures; devices then characterized. Prerequisite:  ECEN 325,
+ECEN 370, or approval of instructor.
+ECEN 689 Special Topics in...
+Credits 1 to 4. 1 to 4 Lecture Hours. 0 to 4 Lab Hours.  Advanced topics
+of current interest in electrical engineering. May be repeated for credit.
+Prerequisite:  Approval of instructor.
+ECEN 691 Research
+Credits 1 to 23. 1 to 23 Other Hours.  Research for thesis or dissertation.
+ECEN 694 Nanobiotechnology
+Credits 3. 3 Lecture Hours.  Introduction to advances in
+nanobiotechnology; includes fabrication of micro or nano structures,
+molecular manipulation, medical diagnostic and treatment options, nano
+---
+Prerequisite:  Approval of instructor.
+ECEN 691 Research
+Credits 1 to 23. 1 to 23 Other Hours.  Research for thesis or dissertation.
+ECEN 694 Nanobiotechnology
+Credits 3. 3 Lecture Hours.  Introduction to advances in
+nanobiotechnology; includes fabrication of micro or nano structures,
+molecular manipulation, medical diagnostic and treatment options, nano
+scale machines such as molecular motors for drug delivery. Prerequisite:
+Graduate classiﬁcation; approval of instructor.
+ECEN 699 Advances in VLSI Logic
+Synthesis
+Credits 3. 3 Lecture Hours.  Logic representation, manipulation, and
+optimization; combinational and sequential logic; Boolean function
+---
+molecular manipulation, medical diagnostic and treatment options, nano
+scale machines such as molecular motors for drug delivery. Prerequisite:
+Graduate classiﬁcation; approval of instructor.
+ECEN 699 Advances in VLSI Logic
+Synthesis
+Credits 3. 3 Lecture Hours.  Logic representation, manipulation, and
+optimization; combinational and sequential logic; Boolean function
+representation schemes; exact and heuristic two-level logic minimization;
+multi-valued logic representation and manipulation; multi-level logic
+representation and minimization; testing; technology mapping.
+Prerequisites:  Approval of instructor and graduate classiﬁcation.
+ECEN 704 VLSI Circuit Design
+---
+optimization; combinational and sequential logic; Boolean function
+representation schemes; exact and heuristic two-level logic minimization;
+multi-valued logic representation and manipulation; multi-level logic
+representation and minimization; testing; technology mapping.
+Prerequisites:  Approval of instructor and graduate classiﬁcation.
+ECEN 704 VLSI Circuit Design
+Credits 4. 3 Lecture Hours. 3 Lab Hours.  Analysis and design of
+monolithic analog and digital integrated circuits using NMOS, CMOS
+and bipolar technologies; device modeling; CAD tools and computer-
+aided design; design methodologies for LSI and VLSI scale circuits; yield
+---
+Prerequisites:  Approval of instructor and graduate classiﬁcation.
+ECEN 704 VLSI Circuit Design
+Credits 4. 3 Lecture Hours. 3 Lab Hours.  Analysis and design of
+monolithic analog and digital integrated circuits using NMOS, CMOS
+and bipolar technologies; device modeling; CAD tools and computer-
+aided design; design methodologies for LSI and VLSI scale circuits; yield
+and economics; test and evaluation of integrated circuits. Prerequisite:
+Graduate classiﬁcation.
+ECEN 710 Switching Power Supplies
+Credits 3. 3 Lecture Hours.  Operating principles of switching power
+supplies; analysis and in-depth design of several types of switching
+---
+aided design; design methodologies for LSI and VLSI scale circuits; yield
+and economics; test and evaluation of integrated circuits. Prerequisite:
+Graduate classiﬁcation.
+ECEN 710 Switching Power Supplies
+Credits 3. 3 Lecture Hours.  Operating principles of switching power
+supplies; analysis and in-depth design of several types of switching
+regulators including buck, boost, forward, flyback, half and full bridge
+switching regulator analysis; elements of transformer and magnetic
+design; state space analysis and feedback loop stabilization principles;
+application of these in the industry.Prerequisites:  ECEN 438 or equivalent,
+approval of instructor.
+ECEN 711 Sustainable Energy and Vehicle
+---
+regulators including buck, boost, forward, flyback, half and full bridge
+switching regulator analysis; elements of transformer and magnetic
+design; state space analysis and feedback loop stabilization principles;
+application of these in the industry.Prerequisites:  ECEN 438 or equivalent,
+approval of instructor.
+ECEN 711 Sustainable Energy and Vehicle
+Engineering
+Credits 3. 3 Lecture Hours.  Forms of sustainable and unsustainable
+energy resources and the basic system engineering limits of each;
+speciﬁc problems of sustainable transportation energy on the bases
+of vehicle and power engineering; issues related to energy efﬁciency,
+---
+approval of instructor.
+ECEN 711 Sustainable Energy and Vehicle
+Engineering
+Credits 3. 3 Lecture Hours.  Forms of sustainable and unsustainable
+energy resources and the basic system engineering limits of each;
+speciﬁc problems of sustainable transportation energy on the bases
+of vehicle and power engineering; issues related to energy efﬁciency,
+life cycle analysis, global warming, pollution, economic and social
+considerations. Prerequisite:  Graduate classiﬁcation in engineering.6  ECEN - Electrical & Comp Engr
+ECEN 712 Power Electronics for
+Photovoltaic Energy Systems
+Credits 3. 3 Lecture Hours.  Sustainable energy sources such as
+---
+of vehicle and power engineering; issues related to energy efﬁciency,
+life cycle analysis, global warming, pollution, economic and social
+considerations. Prerequisite:  Graduate classiﬁcation in engineering.6  ECEN - Electrical & Comp Engr
+ECEN 712 Power Electronics for
+Photovoltaic Energy Systems
+Credits 3. 3 Lecture Hours.  Sustainable energy sources such as
+photovoltaic, fuel cell, wind, and others require power electronics to
+perform energy conversion and conditioning in order to convert their
+native form of electrical generation to a format compatible with the ac
+utility grid; exploration of the salient electrical characteristics of solar
+---
+Photovoltaic Energy Systems
+Credits 3. 3 Lecture Hours.  Sustainable energy sources such as
+photovoltaic, fuel cell, wind, and others require power electronics to
+perform energy conversion and conditioning in order to convert their
+native form of electrical generation to a format compatible with the ac
+utility grid; exploration of the salient electrical characteristics of solar
+photovoltaic sources, the requirements for grid-connection and the power
+electronic circuits and controls needed to perform the interconnection
+and control. Prerequisite:  ECEN 438 or instructor approval.
+ECEN 713 Data Sciences and Applications
+for Modern Power
+---
+utility grid; exploration of the salient electrical characteristics of solar
+photovoltaic sources, the requirements for grid-connection and the power
+electronic circuits and controls needed to perform the interconnection
+and control. Prerequisite:  ECEN 438 or instructor approval.
+ECEN 713 Data Sciences and Applications
+for Modern Power
+Credits 3. 3 Lecture Hours.  Introduction to the foundation of high
+dimensional statistics; data analytical tools necessary to model and
+operate a modern power system; projects offer realistic data sets to
+construct tools and models for smart grid operations. Prerequisite:
+ECEN 420 or ECEN 460, or equivalent.
+ECEN 714 Digital Integrated Circuit Design
+---
+for Modern Power
+Credits 3. 3 Lecture Hours.  Introduction to the foundation of high
+dimensional statistics; data analytical tools necessary to model and
+operate a modern power system; projects offer realistic data sets to
+construct tools and models for smart grid operations. Prerequisite:
+ECEN 420 or ECEN 460, or equivalent.
+ECEN 714 Digital Integrated Circuit Design
+Credits 3. 2 Lecture Hours. 2 Lab Hours.  Analysis and design of digital
+devices and integrated circuits using metal-oxide semiconductor (MOS)
+and bipolar technologies and computer aided simulation. Prerequisite:
+Graduate classiﬁcation.
+ECEN 715 Physical and Economical
+Operations of Sustainable Energy
+Systems
+---
+ECEN 420 or ECEN 460, or equivalent.
+ECEN 714 Digital Integrated Circuit Design
+Credits 3. 2 Lecture Hours. 2 Lab Hours.  Analysis and design of digital
+devices and integrated circuits using metal-oxide semiconductor (MOS)
+and bipolar technologies and computer aided simulation. Prerequisite:
+Graduate classiﬁcation.
+ECEN 715 Physical and Economical
+Operations of Sustainable Energy
+Systems
+Credits 3. 3 Lecture Hours.  Operational issues for sustainable electric
+energy systems; basic relevant topics in engineering, optimization
+and economic concepts; modular view of individual electric energy
+processing components; physical and market operations in electricity
+---
+Graduate classiﬁcation.
+ECEN 715 Physical and Economical
+Operations of Sustainable Energy
+Systems
+Credits 3. 3 Lecture Hours.  Operational issues for sustainable electric
+energy systems; basic relevant topics in engineering, optimization
+and economic concepts; modular view of individual electric energy
+processing components; physical and market operations in electricity
+industry in support of sustainable energy integration; computer
+simulations and demonstrations to create and evaluate examples of
+power systems. Prerequisite:  ECEN 214, ECEN 420, ECEN 460 or approval
+of instructor.
+ECEN 718 Neuro-electronics System
+Credits 3. 3 Lecture Hours.  Introduction to neuro-electronics system;
+---
+processing components; physical and market operations in electricity
+industry in support of sustainable energy integration; computer
+simulations and demonstrations to create and evaluate examples of
+power systems. Prerequisite:  ECEN 214, ECEN 420, ECEN 460 or approval
+of instructor.
+ECEN 718 Neuro-electronics System
+Credits 3. 3 Lecture Hours.  Introduction to neuro-electronics system;
+provide basic knowledge for interests in designing electrical system
+interacting with human nervous system and human body; basics of
+neuroscience, action potential and nervous, muscular and skeletal
+systems of humans; design process of the neuro-electronics system
+---
+of instructor.
+ECEN 718 Neuro-electronics System
+Credits 3. 3 Lecture Hours.  Introduction to neuro-electronics system;
+provide basic knowledge for interests in designing electrical system
+interacting with human nervous system and human body; basics of
+neuroscience, action potential and nervous, muscular and skeletal
+systems of humans; design process of the neuro-electronics system
+that can communicate with the nervous system and replace, assist and
+augment the body function. Prerequisites:  ECEN 325 and ECEN 314.
+ECEN 719 Advanced Digital System
+Design
+Credits 4. 3 Lecture Hours. 3 Lab Hours.  Introduction to the design,
+modeling and veriﬁcation of complex digital systems using hardware
+---
+systems of humans; design process of the neuro-electronics system
+that can communicate with the nervous system and replace, assist and
+augment the body function. Prerequisites:  ECEN 325 and ECEN 314.
+ECEN 719 Advanced Digital System
+Design
+Credits 4. 3 Lecture Hours. 3 Lab Hours.  Introduction to the design,
+modeling and veriﬁcation of complex digital systems using hardware
+description language and electronic system level language.ECEN 720 High-Speed Links Circuits and
+Systems
+Credits 4. 3 Lecture Hours. 3 Lab Hours.  System and circuit design
+of high-speed electrical and optical link systems; includes channel
+properties, communication techniques, and circuit design of drivers,
+---
+modeling and veriﬁcation of complex digital systems using hardware
+description language and electronic system level language.ECEN 720 High-Speed Links Circuits and
+Systems
+Credits 4. 3 Lecture Hours. 3 Lab Hours.  System and circuit design
+of high-speed electrical and optical link systems; includes channel
+properties, communication techniques, and circuit design of drivers,
+receivers, equalizers, and synchronization systems; project consists of
+link design with a statistical bit error rate simulator and interface circuit
+design. Prerequisite:  ECEN 474.
+ECEN 721 Optical Interconnects Circuits
+and Systems
+Credits 3. 3 Lecture Hours.  . High-speed optical interconnect, links,
+---
+properties, communication techniques, and circuit design of drivers,
+receivers, equalizers, and synchronization systems; project consists of
+link design with a statistical bit error rate simulator and interface circuit
+design. Prerequisite:  ECEN 474.
+ECEN 721 Optical Interconnects Circuits
+and Systems
+Credits 3. 3 Lecture Hours.  . High-speed optical interconnect, links,
+circuits and systems issues; optical channel properties and modeling, link
+measurements and communications techniques, and drivers, receivers,
+equalizers and synchronization circuits; comprehensive ﬁnal design
+project includes systems analysis and circuit design of key link circuit
+---
+and Systems
+Credits 3. 3 Lecture Hours.  . High-speed optical interconnect, links,
+circuits and systems issues; optical channel properties and modeling, link
+measurements and communications techniques, and drivers, receivers,
+equalizers and synchronization circuits; comprehensive ﬁnal design
+project includes systems analysis and circuit design of key link circuit
+blocks. Prerequisite:  ECEN 474 or ECEN 704, or approval of instructor.
+ECEN 722 Field Programmable Gate
+Arrays Information Processing Systems
+Credits 4. 3 Lecture Hours. 2 Lab Hours.  Signal processing and neural
+network implementations on ﬁeld programmable gate arrays (FPGA);
+---
+project includes systems analysis and circuit design of key link circuit
+blocks. Prerequisite:  ECEN 474 or ECEN 704, or approval of instructor.
+ECEN 722 Field Programmable Gate
+Arrays Information Processing Systems
+Credits 4. 3 Lecture Hours. 2 Lab Hours.  Signal processing and neural
+network implementations on ﬁeld programmable gate arrays (FPGA);
+FPGA designs of digital ﬁlters, Fourier transform, JPEG decoding, fast
+convolution, Kalman ﬁlter and Viterbi decoding; circuit design techniques
+commonly used in signal processing and neural network, such as
+pipelining, parallel processing, folding, unfolding and systolic array.
+Prerequisites:  Graduate classiﬁcation.
+---
+network implementations on ﬁeld programmable gate arrays (FPGA);
+FPGA designs of digital ﬁlters, Fourier transform, JPEG decoding, fast
+convolution, Kalman ﬁlter and Viterbi decoding; circuit design techniques
+commonly used in signal processing and neural network, such as
+pipelining, parallel processing, folding, unfolding and systolic array.
+Prerequisites:  Graduate classiﬁcation.
+ECEN 723 Introduction to Formal
+Veriﬁcation
+Credits 3. 3 Lecture Hours.  Formal veriﬁcation techniques for hardware
+and concurrent systems; binary decision diagrams; Boolean satisﬁability;
+equivalence checking; model checking; temporal logic; design assertions;
+---
+pipelining, parallel processing, folding, unfolding and systolic array.
+Prerequisites:  Graduate classiﬁcation.
+ECEN 723 Introduction to Formal
+Veriﬁcation
+Credits 3. 3 Lecture Hours.  Formal veriﬁcation techniques for hardware
+and concurrent systems; binary decision diagrams; Boolean satisﬁability;
+equivalence checking; model checking; temporal logic; design assertions;
+probabilistic model checking. Prerequisites:  Graduate classiﬁcation.
+ECEN 725 Data Science Capstone
+Credits 3. 3 Lecture Hours.  Application of data science methods
+including machine learning to research problems; team project-
+based training for project management, interdisciplinary collaboration
+---
+equivalence checking; model checking; temporal logic; design assertions;
+probabilistic model checking. Prerequisites:  Graduate classiﬁcation.
+ECEN 725 Data Science Capstone
+Credits 3. 3 Lecture Hours.  Application of data science methods
+including machine learning to research problems; team project-
+based training for project management, interdisciplinary collaboration
+and communication skills. Prerequisite:  Two or more of CSCE 633,
+CSCE 636, CSCE 666, CSCE 676, ECEN 758, ECEN 649, ECEN 740,
+ECEN 743, ECEN 765, ECEN 760, STAT 616, STAT 618 or STAT 639;
+Python programming experience is highly recommended. Cross Listing:
+STAT 683 and CSCE 725.
+ECEN 732 Online Decision Making and
+Learning
+---
+based training for project management, interdisciplinary collaboration
+and communication skills. Prerequisite:  Two or more of CSCE 633,
+CSCE 636, CSCE 666, CSCE 676, ECEN 758, ECEN 649, ECEN 740,
+ECEN 743, ECEN 765, ECEN 760, STAT 616, STAT 618 or STAT 639;
+Python programming experience is highly recommended. Cross Listing:
+STAT 683 and CSCE 725.
+ECEN 732 Online Decision Making and
+Learning
+Credits 3. 3 Lecture Hours.  Study of the design and analysis of online
+decision making policies in the presence of unknown future events;
+topics include online learning, prima-dual techniques, online convex
+optimization and multi-armed bandit problem; focus on the application
+---
+STAT 683 and CSCE 725.
+ECEN 732 Online Decision Making and
+Learning
+Credits 3. 3 Lecture Hours.  Study of the design and analysis of online
+decision making policies in the presence of unknown future events;
+topics include online learning, prima-dual techniques, online convex
+optimization and multi-armed bandit problem; focus on the application
+for emerging computer systems and networks. Prerequisites:  Graduate
+classiﬁcation.ECEN - Electrical & Comp Engr 7
+ECEN 733 Advanced Micromachining
+Technologies for the Informational Era
+Credits 3. 3 Lecture Hours.  . In-depth discussion of state-of-the-art
+fabrication and assembly techniques for micro sensors and actuators to
+---
+optimization and multi-armed bandit problem; focus on the application
+for emerging computer systems and networks. Prerequisites:  Graduate
+classiﬁcation.ECEN - Electrical & Comp Engr 7
+ECEN 733 Advanced Micromachining
+Technologies for the Informational Era
+Credits 3. 3 Lecture Hours.  . In-depth discussion of state-of-the-art
+fabrication and assembly techniques for micro sensors and actuators to
+be used in today and future's smart electronics and intelligent systems.
+Prerequisite:  Graduate classiﬁcation in engineering.
+ECEN 735 Electromagnetic Field Theory
+Credits 3. 3 Lecture Hours.  Methods in wave propagation, diffraction and
+---
+Credits 3. 3 Lecture Hours.  . In-depth discussion of state-of-the-art
+fabrication and assembly techniques for micro sensors and actuators to
+be used in today and future's smart electronics and intelligent systems.
+Prerequisite:  Graduate classiﬁcation in engineering.
+ECEN 735 Electromagnetic Field Theory
+Credits 3. 3 Lecture Hours.  Methods in wave propagation, diffraction and
+scattering analysis, including surface waves, creeping waves, surface
+plasmons and complex environments; applications to macroscopic and
+nano technology such as optical wave propagation in materials and
+wireless device wave propagation. Prerequisite:  ECEN 635 or equivalent.
+ECEN 738 Power Electronics
+---
+Credits 3. 3 Lecture Hours.  Methods in wave propagation, diffraction and
+scattering analysis, including surface waves, creeping waves, surface
+plasmons and complex environments; applications to macroscopic and
+nano technology such as optical wave propagation in materials and
+wireless device wave propagation. Prerequisite:  ECEN 635 or equivalent.
+ECEN 738 Power Electronics
+Credits 4. 3 Lecture Hours. 3 Lab Hours.  Electric power conditioning
+and control; characteristics of solid state power switches; analysis and
+experiments with AC power controllers, controlled rectiﬁers, DC choppers
+and DC-AC converters; applications to power supplies, airborne and
+---
+wireless device wave propagation. Prerequisite:  ECEN 635 or equivalent.
+ECEN 738 Power Electronics
+Credits 4. 3 Lecture Hours. 3 Lab Hours.  Electric power conditioning
+and control; characteristics of solid state power switches; analysis and
+experiments with AC power controllers, controlled rectiﬁers, DC choppers
+and DC-AC converters; applications to power supplies, airborne and
+spaceborne power systems. Prerequisite:  Graduate classiﬁcation or
+approval of instructor.
+ECEN 740 Machine Learning Engineering
+Credits 3. 3 Lecture Hours.  Emphasis on fundamental theory for
+learning supervised classiﬁcation-regression models; covers Bayes
+---
+experiments with AC power controllers, controlled rectiﬁers, DC choppers
+and DC-AC converters; applications to power supplies, airborne and
+spaceborne power systems. Prerequisite:  Graduate classiﬁcation or
+approval of instructor.
+ECEN 740 Machine Learning Engineering
+Credits 3. 3 Lecture Hours.  Emphasis on fundamental theory for
+learning supervised classiﬁcation-regression models; covers Bayes
+classiﬁer, maximum-likelihood estimation, least squares, Probably
+Approximately Correct Learning, empirical risk minimization, Vapnik-
+Chervonenkis dimension, computational learning, structural risk
+minimization, regularization, cross-validation, acyclic feedforward
+---
+Credits 3. 3 Lecture Hours.  Emphasis on fundamental theory for
+learning supervised classiﬁcation-regression models; covers Bayes
+classiﬁer, maximum-likelihood estimation, least squares, Probably
+Approximately Correct Learning, empirical risk minimization, Vapnik-
+Chervonenkis dimension, computational learning, structural risk
+minimization, regularization, cross-validation, acyclic feedforward
+networks, completeness of neural networks, backpropagation algorithm,
+gradient descent, stochastic gradient descent, Convolutional Neural
+networks, Auto-encoders, Generative Adversarial Networks, support
+vector machines, kernel-based methods, learning from experts,
+---
+Chervonenkis dimension, computational learning, structural risk
+minimization, regularization, cross-validation, acyclic feedforward
+networks, completeness of neural networks, backpropagation algorithm,
+gradient descent, stochastic gradient descent, Convolutional Neural
+networks, Auto-encoders, Generative Adversarial Networks, support
+vector machines, kernel-based methods, learning from experts,
+boosting, Gaussian process-based learning, word embeddings, recurrent
+neural networks, decision trees, random forests and nearest neighbor
+classiﬁcation. Prerequisite:  ECEN 303, MATH 411, STAT 614, STAT 615, or
+approval of instructor.
+ECEN 741 Electronic Motor Drives
+---
+networks, Auto-encoders, Generative Adversarial Networks, support
+vector machines, kernel-based methods, learning from experts,
+boosting, Gaussian process-based learning, word embeddings, recurrent
+neural networks, decision trees, random forests and nearest neighbor
+classiﬁcation. Prerequisite:  ECEN 303, MATH 411, STAT 614, STAT 615, or
+approval of instructor.
+ECEN 741 Electronic Motor Drives
+Credits 4. 3 Lecture Hours. 3 Lab Hours.  Application of semiconductor
+switching power converters to adjustable speed DC and AC motor drives;
+steady state theory and analysis of electric motion control in industrial,
+robotic and traction systems; laboratory experiments in power electronic
+---
+approval of instructor.
+ECEN 741 Electronic Motor Drives
+Credits 4. 3 Lecture Hours. 3 Lab Hours.  Application of semiconductor
+switching power converters to adjustable speed DC and AC motor drives;
+steady state theory and analysis of electric motion control in industrial,
+robotic and traction systems; laboratory experiments in power electronic
+motor drives and their control. Prerequisite:  Graduate classiﬁcation.
+ECEN 742 DSP Based Electromechanical
+Motion Control
+Credits 3. 2 Lecture Hours. 3 Lab Hours.  Overview of energy
+conversion and basic concepts on electromechanical motion devices;
+different control strategies including the solid-state drive topologies;
+---
+robotic and traction systems; laboratory experiments in power electronic
+motor drives and their control. Prerequisite:  Graduate classiﬁcation.
+ECEN 742 DSP Based Electromechanical
+Motion Control
+Credits 3. 2 Lecture Hours. 3 Lab Hours.  Overview of energy
+conversion and basic concepts on electromechanical motion devices;
+different control strategies including the solid-state drive topologies;
+electromechanical motion device and DSP control implementation
+discussed and implemented in the lab. Prerequisite:  Graduate
+classiﬁcation or approval of instructor.
+ECEN 743 Reinforcement Learning
+Credits 3. 3 Lecture Hours.  Introduction to the theory and practice of
+---
+different control strategies including the solid-state drive topologies;
+electromechanical motion device and DSP control implementation
+discussed and implemented in the lab. Prerequisite:  Graduate
+classiﬁcation or approval of instructor.
+ECEN 743 Reinforcement Learning
+Credits 3. 3 Lecture Hours.  Introduction to the theory and practice of
+reinforcement learning; including Markov decision processes, dynamic
+programming, Q-Learning, policy gradient algorithms, neural networks,
+deep reinforcement learning, imitation learning and multi-agent learning.
+Prerequisite:  Graduate classiﬁcation.ECEN 744 Scientiﬁc Machine Learning
+Credits 3. 3 Lecture Hours.  Introduction to the algorithmic and
+---
+reinforcement learning; including Markov decision processes, dynamic
+programming, Q-Learning, policy gradient algorithms, neural networks,
+deep reinforcement learning, imitation learning and multi-agent learning.
+Prerequisite:  Graduate classiﬁcation.ECEN 744 Scientiﬁc Machine Learning
+Credits 3. 3 Lecture Hours.  Introduction to the algorithmic and
+computational foundations of Scientiﬁc Machine Learning (SciML);
+regularizing scientiﬁc laws in Machine Learning algorithms; interpretable
+models, leading to improved veriﬁcation and validation in mission-critical
+applications; fundamental concepts of scientiﬁc computation, including
+ODE and PDE numerical methods and high-performance computing;
+---
+computational foundations of Scientiﬁc Machine Learning (SciML);
+regularizing scientiﬁc laws in Machine Learning algorithms; interpretable
+models, leading to improved veriﬁcation and validation in mission-critical
+applications; fundamental concepts of scientiﬁc computation, including
+ODE and PDE numerical methods and high-performance computing;
+introduction to the basic SciML algorithms (Automatic Differentiation,
+Physically Informed Neural Networks, and Physically-Informed Gaussian
+Processes) and their application to forward prediction, inverse modeling,
+and uncertainty quantiﬁcation; educational activities of the TAMIDS
+SciML Thematic Lab. Prerequisites:  Graduate classiﬁcation.
+---
+introduction to the basic SciML algorithms (Automatic Differentiation,
+Physically Informed Neural Networks, and Physically-Informed Gaussian
+Processes) and their application to forward prediction, inverse modeling,
+and uncertainty quantiﬁcation; educational activities of the TAMIDS
+SciML Thematic Lab. Prerequisites:  Graduate classiﬁcation.
+ECEN 748 Data Stream Algorithms and
+Applications
+Credits 3. 3 Lecture Hours.  Study of algorithms to sample, sketch and
+summarize high rate data streams, including applications to measuring
+internet trafﬁc and services and transactional graph streaming data;
+quantify the trade-offs between computational and storage resources
+---
+SciML Thematic Lab. Prerequisites:  Graduate classiﬁcation.
+ECEN 748 Data Stream Algorithms and
+Applications
+Credits 3. 3 Lecture Hours.  Study of algorithms to sample, sketch and
+summarize high rate data streams, including applications to measuring
+internet trafﬁc and services and transactional graph streaming data;
+quantify the trade-offs between computational and storage resources
+and accuracy that are inherent in these methods. Prerequisites:  Graduate
+classiﬁcation; ECEN 303 or previous undergraduate or graduate course in
+probability or statistics; or approval of instructor.
+ECEN 749 Microprocessor Systems
+Design
+---
+internet trafﬁc and services and transactional graph streaming data;
+quantify the trade-offs between computational and storage resources
+and accuracy that are inherent in these methods. Prerequisites:  Graduate
+classiﬁcation; ECEN 303 or previous undergraduate or graduate course in
+probability or statistics; or approval of instructor.
+ECEN 749 Microprocessor Systems
+Design
+Credits 3. 2 Lecture Hours. 2 Lab Hours.  Introduction to microprocessors;
+16/32 bit single board computer hardware and software designs;
+chip select equations for memory board design, serial and parallel I/
+O interfacing; ROM, static and dynamic RAM circuits for no wait-state
+---
+probability or statistics; or approval of instructor.
+ECEN 749 Microprocessor Systems
+Design
+Credits 3. 2 Lecture Hours. 2 Lab Hours.  Introduction to microprocessors;
+16/32 bit single board computer hardware and software designs;
+chip select equations for memory board design, serial and parallel I/
+O interfacing; ROM, static and dynamic RAM circuits for no wait-state
+design; assembly language programming, stack models, subroutines, and
+I/O processing. Prerequisite:  Graduate classiﬁcation.
+ECEN 750 Design and Analysis of
+Communication Networks
+Credits 3. 3 Lecture Hours.  Analytical approach to understanding
+resource allocation on the Internet; study the system in a global sense,
+---
+O interfacing; ROM, static and dynamic RAM circuits for no wait-state
+design; assembly language programming, stack models, subroutines, and
+I/O processing. Prerequisite:  Graduate classiﬁcation.
+ECEN 750 Design and Analysis of
+Communication Networks
+Credits 3. 3 Lecture Hours.  Analytical approach to understanding
+resource allocation on the Internet; study the system in a global sense,
+and use a deterministic approach to study congestion control protocols;
+study individual queues and routers, and use a stochastic approach to
+understanding system performance. Prerequisite:  ECEN 646 or some
+probability background.
+ECEN 752 Advances in VLSI Circuit Design
+---
+resource allocation on the Internet; study the system in a global sense,
+and use a deterministic approach to study congestion control protocols;
+study individual queues and routers, and use a stochastic approach to
+understanding system performance. Prerequisite:  ECEN 646 or some
+probability background.
+ECEN 752 Advances in VLSI Circuit Design
+Credits 3. 3 Lecture Hours.  Gate and wire delays, CMOS transistors,
+DC and AC characteristics, VLSI fabrication, Static, Dynamic, Pass-
+gate and PLA implementation styles, SOI and GaAs technology, DRAM,
+SRAM and FLASH memory design, leakage and dynamic power, sub-
+threshold computation, clocking, transmission lines, packaging, off-chip
+---
+ECEN 752 Advances in VLSI Circuit Design
+Credits 3. 3 Lecture Hours.  Gate and wire delays, CMOS transistors,
+DC and AC characteristics, VLSI fabrication, Static, Dynamic, Pass-
+gate and PLA implementation styles, SOI and GaAs technology, DRAM,
+SRAM and FLASH memory design, leakage and dynamic power, sub-
+threshold computation, clocking, transmission lines, packaging, off-chip
+IO, process variation and compensation, radiation tolerance. Prerequisite
+(s): Graduate classiﬁcation or Instructor approval.
+ECEN 753 Theory and Applications of
+Network Coding
+Credits 3. 3 Lecture Hours.  Fundamentals of network coding including
+concepts, models, linear and non-linear codes, code design, random
+---
+threshold computation, clocking, transmission lines, packaging, off-chip
+IO, process variation and compensation, radiation tolerance. Prerequisite
+(s): Graduate classiﬁcation or Instructor approval.
+ECEN 753 Theory and Applications of
+Network Coding
+Credits 3. 3 Lecture Hours.  Fundamentals of network coding including
+concepts, models, linear and non-linear codes, code design, random
+and deterministic codes; wireless network coding; network coding for
+storage; practical implementations; current research trends. Prerequisite:
+Graduate classiﬁcation or approval of instructor.8  ECEN - Electrical & Comp Engr
+ECEN 754 Optimization for Electrical and
+Computer Engineering Applications
+---
+concepts, models, linear and non-linear codes, code design, random
+and deterministic codes; wireless network coding; network coding for
+storage; practical implementations; current research trends. Prerequisite:
+Graduate classiﬁcation or approval of instructor.8  ECEN - Electrical & Comp Engr
+ECEN 754 Optimization for Electrical and
+Computer Engineering Applications
+Credits 3. 3 Lecture Hours.  Principles of optimization including linear and
+nonlinear optimization as well as electrical and computer engineering
+applications in signal estimation, routing in communication networks,
+flows in wireless networks, wafer fabrication plants, and economic
+---
+ECEN 754 Optimization for Electrical and
+Computer Engineering Applications
+Credits 3. 3 Lecture Hours.  Principles of optimization including linear and
+nonlinear optimization as well as electrical and computer engineering
+applications in signal estimation, routing in communication networks,
+flows in wireless networks, wafer fabrication plants, and economic
+dispatch in power systems. Prerequisites:  MATH 304 or MATH 309 or
+MATH 311; MATH 251 or graduate classiﬁcation.
+ECEN 755 Stochastic Systems
+Credits 3. 3 Lecture Hours.  Principles of stochastic systems including
+performance evaluation, estimation, control, scheduling, identiﬁcation
+---
+flows in wireless networks, wafer fabrication plants, and economic
+dispatch in power systems. Prerequisites:  MATH 304 or MATH 309 or
+MATH 311; MATH 251 or graduate classiﬁcation.
+ECEN 755 Stochastic Systems
+Credits 3. 3 Lecture Hours.  Principles of stochastic systems including
+performance evaluation, estimation, control, scheduling, identiﬁcation
+and adaptation, as well as electric and computer engineering
+applications; includes applications in communication networks and
+control. Prerequisites:  MATH 411; approval of instructor and graduate
+classiﬁcation.
+ECEN 756 Game Theory
+Credits 3. 3 Lecture Hours.  Fundamentals of game theory, strategic
+---
+performance evaluation, estimation, control, scheduling, identiﬁcation
+and adaptation, as well as electric and computer engineering
+applications; includes applications in communication networks and
+control. Prerequisites:  MATH 411; approval of instructor and graduate
+classiﬁcation.
+ECEN 756 Game Theory
+Credits 3. 3 Lecture Hours.  Fundamentals of game theory, strategic
+behavior and concepts of equilibria; utilization of concepts in realistic
+application scenarios, as well as algorithms and learning methods to
+compute such equilibria. Prerequisite:  Graduate classiﬁcation.
+ECEN 757/CSCE 678 Distributed Systems
+and Cloud Computing
+---
+classiﬁcation.
+ECEN 756 Game Theory
+Credits 3. 3 Lecture Hours.  Fundamentals of game theory, strategic
+behavior and concepts of equilibria; utilization of concepts in realistic
+application scenarios, as well as algorithms and learning methods to
+compute such equilibria. Prerequisite:  Graduate classiﬁcation.
+ECEN 757/CSCE 678 Distributed Systems
+and Cloud Computing
+Credits 3. 3 Lecture Hours.  Fundamental concepts of distributed systems
+with a focus on the emerging application of cloud computing; design,
+analyze, and optimize distributed systems; includes MapReduce,
+synchronization, peer-to-peer systems, election, distributed agreement,
+---
+compute such equilibria. Prerequisite:  Graduate classiﬁcation.
+ECEN 757/CSCE 678 Distributed Systems
+and Cloud Computing
+Credits 3. 3 Lecture Hours.  Fundamental concepts of distributed systems
+with a focus on the emerging application of cloud computing; design,
+analyze, and optimize distributed systems; includes MapReduce,
+synchronization, peer-to-peer systems, election, distributed agreement,
+replication, job assignment. Cross Listing:  CSCE 678/ECEN 757.
+ECEN 758 Data Mining and Analysis
+Credits 3. 3 Lecture Hours.  Broad overview of data mining, integrating
+related concepts from machine learning and statistics; exploratory data
+---
+analyze, and optimize distributed systems; includes MapReduce,
+synchronization, peer-to-peer systems, election, distributed agreement,
+replication, job assignment. Cross Listing:  CSCE 678/ECEN 757.
+ECEN 758 Data Mining and Analysis
+Credits 3. 3 Lecture Hours.  Broad overview of data mining, integrating
+related concepts from machine learning and statistics; exploratory data
+analysis, pattern mining, clustering and classiﬁcation; applications to
+scientiﬁc and online data. Cross Listing:  CSCE 676 and STAT 639.
+ECEN 759/CYBR 630 Hardware Security
+Credits 3. 3 Lecture Hours.  Cryptography and cryptographic algorithms
+such as AES, DES etc.; techniques to optimize hardware implementation
+---
+related concepts from machine learning and statistics; exploratory data
+analysis, pattern mining, clustering and classiﬁcation; applications to
+scientiﬁc and online data. Cross Listing:  CSCE 676 and STAT 639.
+ECEN 759/CYBR 630 Hardware Security
+Credits 3. 3 Lecture Hours.  Cryptography and cryptographic algorithms
+such as AES, DES etc.; techniques to optimize hardware implementation
+of cryptographic systems; different types of side-channel attacks and
+countermeasures; supply-chain vulnerabilities – hardware Trojans, IP
+piracy, and reverse engineering; security modules for system-on-chip;
+physical unclonable function. Prerequisites:  ECEN 350/CSCE 350 or
+---
+such as AES, DES etc.; techniques to optimize hardware implementation
+of cryptographic systems; different types of side-channel attacks and
+countermeasures; supply-chain vulnerabilities – hardware Trojans, IP
+piracy, and reverse engineering; security modules for system-on-chip;
+physical unclonable function. Prerequisites:  ECEN 350/CSCE 350 or
+approval of instructor. Cross Listing:  CYBR 630/ECEN 759.
+ECEN 760 Introduction to Probabilistic
+Graphical Models
+Credits 3. 3 Lecture Hours.  Broad overview of various probabilistic
+graphical models, including Bayesian networks, Markov networks,
+conditional random ﬁelds, and factor graphs; relevant inference and
+---
+physical unclonable function. Prerequisites:  ECEN 350/CSCE 350 or
+approval of instructor. Cross Listing:  CYBR 630/ECEN 759.
+ECEN 760 Introduction to Probabilistic
+Graphical Models
+Credits 3. 3 Lecture Hours.  Broad overview of various probabilistic
+graphical models, including Bayesian networks, Markov networks,
+conditional random ﬁelds, and factor graphs; relevant inference and
+learning algorithms, as well as their application in various science
+and engineering problems will be introduced throughout the course.
+Prerequisites:  Undergraduate level probability theory; basic programming
+skill in any programming language (C, C++, Python, Matlab, etc.).ECEN 761 Biosensors Lab
+---
+conditional random ﬁelds, and factor graphs; relevant inference and
+learning algorithms, as well as their application in various science
+and engineering problems will be introduced throughout the course.
+Prerequisites:  Undergraduate level probability theory; basic programming
+skill in any programming language (C, C++, Python, Matlab, etc.).ECEN 761 Biosensors Lab
+Credits 3. 2 Lecture Hours. 2 Lab Hours.  Biosensors Lab is a hands
+on experience in basic concepts of biosensing and how to make
+miniaturized biosensors; various application examples associated with
+these sensing principles. Prerequisite:  Approval of instructor.
+ECEN 762 Advanced Ultrasound Imaging
+Techniques
+---
+Credits 3. 2 Lecture Hours. 2 Lab Hours.  Biosensors Lab is a hands
+on experience in basic concepts of biosensing and how to make
+miniaturized biosensors; various application examples associated with
+these sensing principles. Prerequisite:  Approval of instructor.
+ECEN 762 Advanced Ultrasound Imaging
+Techniques
+Credits 3. 3 Lecture Hours.  Fundamental concepts at the basis
+of ultrasound imaging including mathematical analysis of wave
+propagation, scattering of ultrasound in biological tissues, electronic
+transducer arrays for the beam forming, models of the received signals
+and signal and image processing methods for medical ultrasound
+---
+ECEN 762 Advanced Ultrasound Imaging
+Techniques
+Credits 3. 3 Lecture Hours.  Fundamental concepts at the basis
+of ultrasound imaging including mathematical analysis of wave
+propagation, scattering of ultrasound in biological tissues, electronic
+transducer arrays for the beam forming, models of the received signals
+and signal and image processing methods for medical ultrasound
+imaging of tissues; focus on the fundamental understanding of advanced
+ultrasound imaging methods and techniques and their applications;
+state-of-the-art ultrasound imaging techniques including ultrasound
+contrast agents and harmonic imaging, 3D and 4D imaging, advanced
+---
+and signal and image processing methods for medical ultrasound
+imaging of tissues; focus on the fundamental understanding of advanced
+ultrasound imaging methods and techniques and their applications;
+state-of-the-art ultrasound imaging techniques including ultrasound
+contrast agents and harmonic imaging, 3D and 4D imaging, advanced
+Doppler imaging methods, 2D arrays, C-MUT and HIFU technologies.
+Prerequisite:  Approval of instructor.
+ECEN 763/BMEN 627 Magnetic
+Resonance Engineering
+Credits 3. 2 Lecture Hours. 3 Lab Hours.  Design, construction and
+application of instrumentation for MR imaging; fundamentals of the
+architecture of an MR spectrometer and the gradient subsystem used
+---
+Doppler imaging methods, 2D arrays, C-MUT and HIFU technologies.
+Prerequisite:  Approval of instructor.
+ECEN 763/BMEN 627 Magnetic
+Resonance Engineering
+Credits 3. 2 Lecture Hours. 3 Lab Hours.  Design, construction and
+application of instrumentation for MR imaging; fundamentals of the
+architecture of an MR spectrometer and the gradient subsystem used
+for image localization; emphasis on the radiofrequency sensors and
+systems used for signal generation and reception. Prerequisites:  BMEN
+major; graduate classiﬁcation or approval of instructor. Cross Listing:
+BMEN 627/ECEN 763.
+ECEN 764 Medical Imaging
+Credits 4. 3 Lecture Hours. 2 Lab Hours.  Physics and signals in medical
+---
+architecture of an MR spectrometer and the gradient subsystem used
+for image localization; emphasis on the radiofrequency sensors and
+systems used for signal generation and reception. Prerequisites:  BMEN
+major; graduate classiﬁcation or approval of instructor. Cross Listing:
+BMEN 627/ECEN 763.
+ECEN 764 Medical Imaging
+Credits 4. 3 Lecture Hours. 2 Lab Hours.  Physics and signals in medical
+imaging systems; focus on magnetic resonance imaging, x-ray computer
+tomography, ultrasonography, nuclear medicine imaging and optical
+imaging; includes system architecture, source generation, energy-
+tissue interaction, image formation and clinical examples. Prerequisite:
+---
+BMEN 627/ECEN 763.
+ECEN 764 Medical Imaging
+Credits 4. 3 Lecture Hours. 2 Lab Hours.  Physics and signals in medical
+imaging systems; focus on magnetic resonance imaging, x-ray computer
+tomography, ultrasonography, nuclear medicine imaging and optical
+imaging; includes system architecture, source generation, energy-
+tissue interaction, image formation and clinical examples. Prerequisite:
+ECEN 314 or equivalent, or approval of instructor.
+ECEN 765 Machine Learning with
+Networks
+Credits 3. 3 Lecture Hours.  Scientiﬁc analysis of large-scale data;
+introduction to advanced methods that are designed to analyze
+structured data represented as networks. Prerequisite:  Approval of
+instructor.
+---
+tissue interaction, image formation and clinical examples. Prerequisite:
+ECEN 314 or equivalent, or approval of instructor.
+ECEN 765 Machine Learning with
+Networks
+Credits 3. 3 Lecture Hours.  Scientiﬁc analysis of large-scale data;
+introduction to advanced methods that are designed to analyze
+structured data represented as networks. Prerequisite:  Approval of
+instructor.
+ECEN 766 Algorithms in Structural
+Bioinformatics
+Credits 3. 3 Lecture Hours.  Fundamental concepts, modeling techniques,
+and computational algorithms in structural bioinformatics for algorithm
+development and application; focus on algorithm perspective involving
+---
+structured data represented as networks. Prerequisite:  Approval of
+instructor.
+ECEN 766 Algorithms in Structural
+Bioinformatics
+Credits 3. 3 Lecture Hours.  Fundamental concepts, modeling techniques,
+and computational algorithms in structural bioinformatics for algorithm
+development and application; focus on algorithm perspective involving
+optimization and machine learning; essential for those without prior
+domain knowledge. Prerequisite:  Approval of instructor.ECEN - Electrical & Comp Engr 9
+ECEN 767 Harnessing Solar Energy:
+Optics, Photovoltaics and Thermal
+Systems
+Credits 4. 3 Lecture Hours. 3 Lab Hours.  Solar radiation characteristics
+---
+development and application; focus on algorithm perspective involving
+optimization and machine learning; essential for those without prior
+domain knowledge. Prerequisite:  Approval of instructor.ECEN - Electrical & Comp Engr 9
+ECEN 767 Harnessing Solar Energy:
+Optics, Photovoltaics and Thermal
+Systems
+Credits 4. 3 Lecture Hours. 3 Lab Hours.  Solar radiation characteristics
+and measurement; optical coatings including reflection, transmission,
+absorption and emissivity; concentrating optics, tracking and etendue
+limit; photovoltaic cells, modules and systems overview; introduction to
+solar thermal systems. Prerequisite:  Graduate classiﬁcation or approval
+of instructor.
+---
+Systems
+Credits 4. 3 Lecture Hours. 3 Lab Hours.  Solar radiation characteristics
+and measurement; optical coatings including reflection, transmission,
+absorption and emissivity; concentrating optics, tracking and etendue
+limit; photovoltaic cells, modules and systems overview; introduction to
+solar thermal systems. Prerequisite:  Graduate classiﬁcation or approval
+of instructor.
+ECEN 768 Bioelectronics
+Credits 3. 3 Lecture Hours.  Basic biological systems from individual
+neuron to neural networks in the brain/nervous system by leveraging
+engineering principles, basic electrical circuit theory and electromagnetic
+theory; applications include biosensors including electrodes, chemical,
+---
+solar thermal systems. Prerequisite:  Graduate classiﬁcation or approval
+of instructor.
+ECEN 768 Bioelectronics
+Credits 3. 3 Lecture Hours.  Basic biological systems from individual
+neuron to neural networks in the brain/nervous system by leveraging
+engineering principles, basic electrical circuit theory and electromagnetic
+theory; applications include biosensors including electrodes, chemical,
+mechanical and optical sensors and bioelectronic systems.
+ECEN 769/MSEN 660 Materials
+Informatics
+Credits 3. 3 Lecture Hours.  Use of informatics approaches to establish
+quantitative structure-property relations (QSPRs) in materials and
+---
+engineering principles, basic electrical circuit theory and electromagnetic
+theory; applications include biosensors including electrodes, chemical,
+mechanical and optical sensors and bioelectronic systems.
+ECEN 769/MSEN 660 Materials
+Informatics
+Credits 3. 3 Lecture Hours.  Use of informatics approaches to establish
+quantitative structure-property relations (QSPRs) in materials and
+materials systems; basic concepts of QSPRs and probability, supervised
+learning, unsupervised learning, optimal prediction and applications in
+materials discovery. Prerequisite:  Approval of instructor. Cross Listing:
+MSEN 660/ECEN 769.
+ECEN 771 Fluctuations and Noise
+Electronics
+---
+quantitative structure-property relations (QSPRs) in materials and
+materials systems; basic concepts of QSPRs and probability, supervised
+learning, unsupervised learning, optimal prediction and applications in
+materials discovery. Prerequisite:  Approval of instructor. Cross Listing:
+MSEN 660/ECEN 769.
+ECEN 771 Fluctuations and Noise
+Electronics
+Credits 3. 3 Lecture Hours.  Introduction to the research of Noise and
+Fluctuations; Noise and Fluctuations in electronics and other systems
+include virtually all scientiﬁc ﬁelds, including secure and non-secure
+communications, microprocessors, quantum information, mesoscopic
+systems, chemical sensing, corrosion diagnostics, neuro- and membrane-
+---
+ECEN 771 Fluctuations and Noise
+Electronics
+Credits 3. 3 Lecture Hours.  Introduction to the research of Noise and
+Fluctuations; Noise and Fluctuations in electronics and other systems
+include virtually all scientiﬁc ﬁelds, including secure and non-secure
+communications, microprocessors, quantum information, mesoscopic
+systems, chemical sensing, corrosion diagnostics, neuro- and membrane-
+biology, biomedicine, etc. Prerequisite:  Approval of instructor.
+ECEN 772 Introduction to
+Microelectromechanical Devices and
+Systems
+Credits 3. 3 Lecture Hours.  Provides a broad overview of the
+past and current developments in the emerging area of MEMS
+---
+communications, microprocessors, quantum information, mesoscopic
+systems, chemical sensing, corrosion diagnostics, neuro- and membrane-
+biology, biomedicine, etc. Prerequisite:  Approval of instructor.
+ECEN 772 Introduction to
+Microelectromechanical Devices and
+Systems
+Credits 3. 3 Lecture Hours.  Provides a broad overview of the
+past and current developments in the emerging area of MEMS
+(microelectromechanical systems); discusses the fundamental working
+principles, designs and fabrication techniques; consists of several special
+topics, discussing the latest important applications in different ﬁelds.
+Prerequisite:  Consent of instructor.
+ECEN 773 Introduction to Nanophotonics
+---
+past and current developments in the emerging area of MEMS
+(microelectromechanical systems); discusses the fundamental working
+principles, designs and fabrication techniques; consists of several special
+topics, discussing the latest important applications in different ﬁelds.
+Prerequisite:  Consent of instructor.
+ECEN 773 Introduction to Nanophotonics
+Credits 3. 3 Lecture Hours.  Photonic bandgap optical circuitry,
+photonic crystal ﬁber; visible to infrared semiconductor quantum
+lasers; semiconductor quantum dots; plasmonic ﬁeld enhancement,
+plasmonic optical circuitry, sub-wavelength optical lithography, negative
+refractive index and sub-wavelength optical imaging; nano-structure
+---
+ECEN 773 Introduction to Nanophotonics
+Credits 3. 3 Lecture Hours.  Photonic bandgap optical circuitry,
+photonic crystal ﬁber; visible to infrared semiconductor quantum
+lasers; semiconductor quantum dots; plasmonic ﬁeld enhancement,
+plasmonic optical circuitry, sub-wavelength optical lithography, negative
+refractive index and sub-wavelength optical imaging; nano-structure
+characterization techniques, atomic force microscopy, near-ﬁeld
+optical microscopy, scanning and transmission electron microscopy.
+Prerequisite:  Approval of instructor.ECEN 774 Laser Principles and
+Applications
+Credits 3. 3 Lecture Hours.  Quantum properties of light and matter as
+---
+refractive index and sub-wavelength optical imaging; nano-structure
+characterization techniques, atomic force microscopy, near-ﬁeld
+optical microscopy, scanning and transmission electron microscopy.
+Prerequisite:  Approval of instructor.ECEN 774 Laser Principles and
+Applications
+Credits 3. 3 Lecture Hours.  Quantum properties of light and matter as
+related to optical and optoelectronic devices such as lasers and their
+applications; Maxwell's equations, classical optics and optical devices;
+basic quantum theory of light and atoms; laser resonators and short
+pulse generation.
+ECEN 776 Unconditionally Secure
+Electronics
+Credits 3. 3 Lecture Hours.  Data security; cryptography; key exchange;
+---
+related to optical and optoelectronic devices such as lasers and their
+applications; Maxwell's equations, classical optics and optical devices;
+basic quantum theory of light and atoms; laser resonators and short
+pulse generation.
+ECEN 776 Unconditionally Secure
+Electronics
+Credits 3. 3 Lecture Hours.  Data security; cryptography; key exchange;
+conditional security; unconditional (information-theoretic) security;
+quantum key distribution; the Kirchhoff-law-Johnson-noise (KLJN)
+key exchange, electronic noise; advanced issues of KLJN including
+schemes, protocols, attacks, defense, privacy ampliﬁcation, credit cards,
+PUF, autonomous vehicles and smart grids. Prerequisites:  ECEN 214,
+---
+conditional security; unconditional (information-theoretic) security;
+quantum key distribution; the Kirchhoff-law-Johnson-noise (KLJN)
+key exchange, electronic noise; advanced issues of KLJN including
+schemes, protocols, attacks, defense, privacy ampliﬁcation, credit cards,
+PUF, autonomous vehicles and smart grids. Prerequisites:  ECEN 214,
+ECEN 303, or STAT 211; graduate classiﬁcation.
+ECEN 777 Photonics: Fiber and Integrated
+Optics
+Credits 4. 3 Lecture Hours. 3 Lab Hours.  Optical power and spectral
+measurements of singlemode and multimode optical ﬁbers, hands-on
+arc fusion splicing, lasers, ampliﬁers, interferometrs, photodetectors,
+---
+PUF, autonomous vehicles and smart grids. Prerequisites:  ECEN 214,
+ECEN 303, or STAT 211; graduate classiﬁcation.
+ECEN 777 Photonics: Fiber and Integrated
+Optics
+Credits 4. 3 Lecture Hours. 3 Lab Hours.  Optical power and spectral
+measurements of singlemode and multimode optical ﬁbers, hands-on
+arc fusion splicing, lasers, ampliﬁers, interferometrs, photodetectors,
+integrated optics, ﬁber-optics, ﬁber-optic devices, optical modulators.
+Prerequisites:  Equivalent of ECEN 322 and ECEN 370 or approval of
+instructor.
+---
