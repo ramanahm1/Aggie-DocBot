@@ -4,4 +4,4 @@ An Agentic RAG to source context from Reddit, University Websites, Course Catalo
 
 ## Snapshots
 - Analyzing quality of retrieval.
-  [](https://github.com/ramanahm1/Aggie-DocBot/blob/master/adc_1.png)
+[](https://github.com/ramanahm1/Aggie-DocBot/blob/master/adc_1.png)
